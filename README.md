@@ -1,3 +1,3 @@
 # Crawler
 
-node crawler1.js
+node crawler.js

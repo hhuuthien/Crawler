@@ -9,6 +9,7 @@
   "author": "hhuuthien",
   "license": "ISC",
   "dependencies": {
+    "axios": "^0.27.2",
     "cheerio": "^1.0.0-rc.3",
     "firebase": "^9.9.1",
     "puppeteer": "^15.5.0",

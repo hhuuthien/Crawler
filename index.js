@@ -1,18 +1,56 @@
-const firebase = require("firebase/app");
 const puppeteer = require("puppeteer");
 const cheerio = require("cheerio");
+const axios = require("axios").default;
 const fs = require("fs");
 
-const firebaseConfig = {
-  apiKey: "AIzaSyCNJcS7elqe-4BdxYeULDdsdy80N9gn7LU",
-  authDomain: "cgv-movie.firebaseapp.com",
-  projectId: "cgv-movie",
-  storageBucket: "cgv-movie.appspot.com",
-  messagingSenderId: "757790607592",
-  appId: "1:757790607592:web:5deea516c2cacd4200a15d",
+const key = "a0380fbf-1c1d-4218-8d97-350fbf2df51d";
+
+const createBasket = (name) => {
+  axios
+    .post(`https://getpantry.cloud/apiv1/pantry/${key}/basket/${name}`)
+    .then(function (response) {
+      console.log("Thành công");
+    })
+    .catch(function (error) {
+      console.log(error);
+    });
 };
 
-const app = firebase.initializeApp(firebaseConfig);
+const updateBasket = (name, content) => {
+  // tạo basket mới để tránh duplicate dữ liệu
+  axios.post(`https://getpantry.cloud/apiv1/pantry/${key}/basket/${name}`).then(function () {
+    axios
+      .put(`https://getpantry.cloud/apiv1/pantry/${key}/basket/${name}`, content)
+      .then(function (response) {
+        console.log("Thành công");
+      })
+      .catch(function (error) {
+        console.log(error);
+      });
+  });
+};
+
+const getBasket = (name) => {
+  axios
+    .get(`https://getpantry.cloud/apiv1/pantry/${key}/basket/${name}`)
+    .then(function (response) {
+      console.log(response);
+    })
+    .catch(function (error) {
+      console.log(error);
+    });
+};
+
+const deleteBasket = (name) => {
+  axios
+    .delete(`https://getpantry.cloud/apiv1/pantry/${key}/basket/${name}`)
+    .then(function (response) {
+      console.log("Thành công");
+    })
+    .catch(function (error) {
+      console.log(error);
+    });
+};
 
 const getProvinceAndCinemaSite = async () => {
   try {
@@ -53,16 +91,12 @@ const getProvinceAndCinemaSite = async () => {
       });
     });
 
-    fs.writeFileSync(
-      "provinceAndCinemaSite.json",
-      JSON.stringify({
-        province,
-        cinemaSite,
-      })
-    );
-
     await browser.close();
-    console.log("Successfully");
+
+    updateBasket("provinceAndCinemaSite", {
+      province,
+      cinemaSite,
+    });
   } catch (error) {
     console.log(error);
   }
@@ -106,11 +140,9 @@ const getNowShowingMovie = async () => {
       nowShowingMovie.push({ title, link, rating, img, technology, info });
     });
 
-    // fs.writeFileSync("nowShowingMovie.json", JSON.stringify(nowShowingMovie));
-
     await browser.close();
-    console.log("Successfully");
 
+    updateBasket("nowShowingMovie", { nowShowingMovie });
     return nowShowingMovie;
   } catch (error) {
     console.log(error);
@@ -155,10 +187,10 @@ const getUpComingMovie = async () => {
       upComingMovie.push({ title, link, rating, img, technology, info });
     });
 
-    fs.writeFileSync("upComingMovie.json", JSON.stringify(upComingMovie));
-
     await browser.close();
-    console.log("Successfully");
+
+    updateBasket("upComingMovie", { upComingMovie });
+    return upComingMovie;
   } catch (error) {
     console.log(error);
   }
@@ -242,28 +274,42 @@ const getMovie = async (link) => {
       youtubeID,
     };
 
-    // fs.writeFileSync("movie.json", JSON.stringify(data));
-
     await browser.close();
-    console.log("Successfully movie");
-
     return data;
   } catch (error) {
     console.log(error);
   }
 };
 
-const getAllMovieInDetail = async () => {
-  const list = await getNowShowingMovie();
+const getAllMoviesInDetail = async () => {
+  const list1 = await getNowShowingMovie();
+  const list2 = await getUpComingMovie();
 
   let array = [];
 
-  for (let index = 0; index < list.length; index++) {
+  for (let index = 0; index < list1.length; index++) {
     setTimeout(async () => {
-      const movie = list[index];
+      console.log(index);
+      const movie = list1[index];
       let result = await getMovie(movie.link);
       array.push(result);
-      fs.writeFileSync("nowShowingMovie.json", JSON.stringify(array));
-    }, 20000 * index);
+      fs.writeFileSync("data.json", JSON.stringify(array));
+    }, 10000 * index);
+  }
+  for (let index = 0; index < list2.length; index++) {
+    setTimeout(async () => {
+      console.log(index);
+      const movie = list2[index];
+      let result = await getMovie(movie.link);
+      array.push(result);
+      fs.writeFileSync("data.json", JSON.stringify(array));
+    }, 10000 * index);
   }
 };
+
+// getProvinceAndCinemaSite();
+
+// getAllMoviesInDetail();
+
+// const content = JSON.parse(fs.readFileSync("data.json").toString());
+// updateBasket("movies", { content });

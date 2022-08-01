@@ -1,6 +1,18 @@
+const firebase = require("firebase/app");
 const puppeteer = require("puppeteer");
 const cheerio = require("cheerio");
 const fs = require("fs");
+
+const firebaseConfig = {
+  apiKey: "AIzaSyCNJcS7elqe-4BdxYeULDdsdy80N9gn7LU",
+  authDomain: "cgv-movie.firebaseapp.com",
+  projectId: "cgv-movie",
+  storageBucket: "cgv-movie.appspot.com",
+  messagingSenderId: "757790607592",
+  appId: "1:757790607592:web:5deea516c2cacd4200a15d",
+};
+
+const app = firebase.initializeApp(firebaseConfig);
 
 const getProvinceAndCinemaSite = async () => {
   try {
@@ -94,10 +106,12 @@ const getNowShowingMovie = async () => {
       nowShowingMovie.push({ title, link, rating, img, technology, info });
     });
 
-    fs.writeFileSync("nowShowingMovie.json", JSON.stringify(nowShowingMovie));
+    // fs.writeFileSync("nowShowingMovie.json", JSON.stringify(nowShowingMovie));
 
     await browser.close();
     console.log("Successfully");
+
+    return nowShowingMovie;
   } catch (error) {
     console.log(error);
   }
@@ -163,7 +177,6 @@ const getMovie = async (link) => {
 
     const $ = cheerio.load(body);
 
-    let data = {};
     const images = $(".product-essential").find("img#image-main").attr().src;
     const title = $(".product-essential").find(".product-name").find("span.h1").text().trim();
     const director = $(".product-essential").find(".movie-director").find("div.std").text().trim();
@@ -198,18 +211,22 @@ const getMovie = async (link) => {
       .find("div.std")
       .text()
       .trim();
-    const trailerEmbed = $(".product-collateral")
-      .find("dl.collateral-tabs")
-      .find("dd.last")
-      .find("div.std")
-      .find("iframe")
-      .attr()
-      .src.trim()
-      .substring(2);
+
+    let trailerEmbed = "";
+    try {
+      trailerEmbed = $(".product-collateral")
+        .find("dl.collateral-tabs")
+        .find("dd.last")
+        .find("div.std")
+        .find("iframe")
+        .attr()
+        .src.trim()
+        .substring(2);
+    } catch (error) {}
+
     const youtubeID = trailerEmbed.substring(22, 33);
 
-    data = {
-      ...data,
+    const data = {
       images,
       title,
       director,
@@ -225,15 +242,28 @@ const getMovie = async (link) => {
       youtubeID,
     };
 
-    fs.writeFileSync("movie.json", JSON.stringify(data));
+    // fs.writeFileSync("movie.json", JSON.stringify(data));
 
     await browser.close();
-    console.log("Successfully");
+    console.log("Successfully movie");
+
+    return data;
   } catch (error) {
     console.log(error);
   }
 };
 
-// getProvinceAndCinemaSite();
-// getNowShowingMovie();
-getMovie("https://www.cgv.vn/default/dan-choi-khong-so-con-roi.html");
+const getAllMovieInDetail = async () => {
+  const list = await getNowShowingMovie();
+
+  let array = [];
+
+  for (let index = 0; index < list.length; index++) {
+    setTimeout(async () => {
+      const movie = list[index];
+      let result = await getMovie(movie.link);
+      array.push(result);
+      fs.writeFileSync("nowShowingMovie.json", JSON.stringify(array));
+    }, 20000 * index);
+  }
+};

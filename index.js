@@ -281,35 +281,139 @@ const getMovie = async (link) => {
   }
 };
 
-const getAllMoviesInDetail = async () => {
-  const list1 = await getNowShowingMovie();
-  const list2 = await getUpComingMovie();
+const getSchedule = async (link) => {
+  try {
+    const browser = await puppeteer.launch();
+    const page = await browser.newPage();
+    await page.goto(link);
+    await page.waitForSelector(".movie-director", { timeout: 10000 });
+    await page.click("button.button.btn-booking");
+    await page.waitForSelector("div.tabs-cgv-movie-cites");
+
+    const body = await page.evaluate(() => {
+      return document.querySelector("div.product-collateral.toggle-content.tabs.tabs-cgv-movie-view-date > dl > dd")
+        .innerHTML;
+    });
+
+    // cách làm này chỉ lấy được các suất chiếu trong ngày hiện tại
+
+    const $ = cheerio.load(body);
+
+    let data = [];
+    $("dl#collateral-tabs.collateral-tabs")
+      .children("dd.tab-container")
+      .each((i, element) => {
+        let format = [];
+        $(element)
+          .find("dl#collateral-tabs.collateral-tabs")
+          .children("dd.tab-container")
+          .each((i2, element2) => {
+            let site = [];
+            $(element2)
+              .find("div.site.sitecgv")
+              .each((i3, rap) => {
+                const siteName = $(rap).find("h3").text().trim();
+                let siteType = [];
+                $(rap)
+                  .find("h4")
+                  .each((i, h4) => {
+                    siteType.push($(h4).text().trim());
+                  });
+                let showTime = [];
+                $(rap)
+                  .find("ul")
+                  .each((_, ul) => {
+                    let temp = [];
+                    $(ul)
+                      .children("li.item")
+                      .each((i4, suat) => {
+                        temp.push($(suat).find("span").text().trim());
+                      });
+                    showTime.push(temp);
+                  });
+                site.push({ siteName, siteType, showTime });
+              });
+            format.push(site);
+          });
+        if (format.length !== 0) data.push(format);
+      });
+
+    let provinceLabel = [];
+    $("div.product-collateral.toggle-content.tabs.tabs-cgv-movie-cites > ul")
+      .children("li")
+      .each((i, element) => {
+        provinceLabel.push($(element).find("span").text().trim());
+      });
+
+    let formatLabel = [];
+    $("dl#collateral-tabs.collateral-tabs")
+      .children("dd.tab-container")
+      .each((i, element) => {
+        let arr = [];
+        $(element)
+          .find("div.product-collateral.toggle-content.tabs.tabs-cgv-movie-type > ul")
+          .children("li")
+          .each((i2, e) => {
+            arr.push($(e).find("span").text().trim());
+          });
+        if (arr.length !== 0) formatLabel.push(arr);
+      });
+
+    let finalData = [];
+    for (let index = 0; index < data.length; index++) {
+      finalData.push({
+        province: provinceLabel[index],
+        availabelFormat: formatLabel[index],
+        data: data[index],
+      });
+    }
+
+    await browser.close();
+    return { schedule: finalData };
+  } catch (error) {
+    console.log(error);
+  }
+};
+
+const getAllMoviesInDetail_NowShowingMovie = async () => {
+  const list = await getNowShowingMovie();
 
   let array = [];
 
-  for (let index = 0; index < list1.length; index++) {
+  for (let index = 0; index < list.length; index++) {
     setTimeout(async () => {
       console.log(index);
-      const movie = list1[index];
-      let result = await getMovie(movie.link);
-      array.push(result);
-      fs.writeFileSync("data.json", JSON.stringify(array));
-    }, 10000 * index);
+      const movie = list[index];
+      let result1 = await getMovie(movie.link);
+      let result2 = await getSchedule(movie.link);
+      array.push({ ...result1, ...result2 });
+      fs.writeFileSync("data1.json", JSON.stringify(array));
+    }, 20000 * index);
   }
-  for (let index = 0; index < list2.length; index++) {
+};
+
+const getAllMoviesInDetail_UpComingMovie = async () => {
+  const list = await getUpComingMovie();
+
+  let array = [];
+
+  for (let index = 0; index < list.length; index++) {
     setTimeout(async () => {
       console.log(index);
-      const movie = list2[index];
+      const movie = list[index];
       let result = await getMovie(movie.link);
       array.push(result);
-      fs.writeFileSync("data.json", JSON.stringify(array));
+      fs.writeFileSync("data2.json", JSON.stringify(array));
     }, 10000 * index);
   }
 };
 
+// 1
 // getProvinceAndCinemaSite();
-
-// getAllMoviesInDetail();
-
-// const content = JSON.parse(fs.readFileSync("data.json").toString());
-// updateBasket("movies", { content });
+// 2
+// getAllMoviesInDetail_NowShowingMovie();
+// getAllMoviesInDetail_UpComingMovie();
+// 3
+// const content1 = JSON.parse(fs.readFileSync("data1.json").toString());
+// const content2 = JSON.parse(fs.readFileSync("data2.json").toString());
+// updateBasket("movies", { nowShowingMovie: content1, upComingMovie: content2 });

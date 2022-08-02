@@ -1,0 +1,4532 @@
+[
+  {
+    "images": "https://www.cgv.vn/media/catalog/product/cache/1/image/c5f0a1eff4c394a251036189ccddaacd/p/o/poster_lmst_3_no_qr_code_1_.jpg",
+    "title": "LIÊN MINH SIÊU THÚ DC",
+    "director": "Jared Stern",
+    "actor": "Dwayne Johnson, Kevin Hart, Keanu Reeves",
+    "genre": "Hoạt Hình",
+    "release": "29/07/2022",
+    "runtime": "106 phút",
+    "language": "Tiếng Anh - Phụ đề Tiếng Việt; Lồng tiếng",
+    "rating": "P - Phim dành cho mọi đối tượng",
+    "technology": ["4DX"],
+    "description": "Trong “Liên Minh Siêu Thú DC”, Siêu Cún Krypto và Superman là cặp bài trùng không thể tách rời, cùng sở hữu những siêu năng lực tương tự và cùng nhau chiến đấu chống lại tội phạm tại thành phố Metropolis. Khi Superman và những thành viên của Liên Minh Công Lý bị bắt cóc, Krypto phải thuyết phục cậu chàng Ace luộm thuộm, nàng Heo PB, Rùa Merton và Sóc Chip khai phá những sức mạnh tiềm ẩn và cùng nhau giải cứu các siêu anh hùng.\n\n“Liên Minh Siêu Thú DC” có sự góp giọng của bộ đôi ngôi sao nổi tiếng bậc nhất Hollywood Dwayne Johnson (lồng tiếng cho Siêu cún Krypto) và Kevin Hart (Superman). Đặc biệt, tài tử Keanu Reeves sẽ đảm nhận những câu thoại chất lừ đến từ Batman.",
+    "trailerEmbed": "www.youtube.com/embed/GrBRGS6Z-jI?rel=0&showinfo=0",
+    "youtubeID": "GrBRGS6Z-jI",
+    "lichChieu": [
+      {
+        "province": "Hồ Chí Minh",
+        "availabelFormat": ["2D Phụ Đề Việt", "2D Lồng Tiếng Việt", "4DX2D Phụ Đề Việt"],
+        "data": [
+          [
+            {
+              "siteName": "CGV Hùng Vương Plaza",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["12:20 PM", "14:40 PM", "19:20 PM", "21:40 PM"]]
+            },
+            {
+              "siteName": "CGV Trường Sơn (CGV CT Plaza)",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["12:20 PM", "14:30 PM", "18:00 PM", "21:10 PM"]]
+            },
+            {
+              "siteName": "CGV Crescent Mall",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["09:40 AM", "16:20 PM", "18:50 PM"]]
+            },
+            { "siteName": "CGV Pandora City", "siteType": ["Rạp 2D"], "showTime": [["17:10 PM"]] },
+            { "siteName": "CGV Aeon Tân Phú", "siteType": ["Rạp 2D"], "showTime": [["21:20 PM"]] },
+            {
+              "siteName": "CGV Thảo Điền Pearl",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["10:40 AM", "15:00 PM", "19:20 PM", "21:30 PM"]]
+            },
+            {
+              "siteName": "CGV Liberty Citypoint",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["10:50 AM", "13:00 PM", "15:10 PM", "17:20 PM", "19:30 PM", "21:40 PM"]]
+            },
+            { "siteName": "CGV Vivo City", "siteType": ["Rạp 2D"], "showTime": [["16:00 PM", "20:30 PM"]] },
+            {
+              "siteName": "CGV Pearl Plaza",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["10:00 AM", "12:15 PM", "14:30 PM", "19:00 PM", "21:20 PM"]]
+            },
+            { "siteName": "CGV Vincom Gò Vấp", "siteType": ["Rạp 2D"], "showTime": [["12:15 PM", "16:45 PM"]] },
+            {
+              "siteName": "CGV Aeon Bình Tân",
+              "siteType": ["Rạp 2D", "Rạp STARIUM"],
+              "showTime": [["08:50 AM", "12:00 PM", "13:20 PM", "15:55 PM", "17:50 PM"], ["21:10 PM"]]
+            },
+            { "siteName": "CGV Saigonres Nguyễn Xí", "siteType": ["Rạp 2D"], "showTime": [["13:30 PM", "18:10 PM"]] },
+            {
+              "siteName": "CGV Parkson Đồng Khởi",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["10:10 AM", "16:50 PM", "19:00 PM"]]
+            },
+            { "siteName": "CGV Sư Vạn Hạnh", "siteType": ["Rạp 2D"], "showTime": [["11:45 AM", "22:30 PM"]] },
+            {
+              "siteName": "CGV Vincom Center Landmark 81",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["10:10 AM", "14:50 PM", "18:00 PM"]]
+            },
+            { "siteName": "CGV Satra Củ Chi", "siteType": ["Rạp 2D"], "showTime": [["13:20 PM"]] },
+            { "siteName": "CGV Giga Mall Thủ Đức", "siteType": ["Rạp 2D"], "showTime": [["12:15 PM"]] },
+            {
+              "siteName": "CGV Lý Chính Thắng",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["10:50 AM", "13:00 PM", "15:10 PM", "17:20 PM", "19:30 PM", "21:40 PM"]]
+            }
+          ],
+          [
+            {
+              "siteName": "CGV Hùng Vương Plaza",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["10:00 AM", "17:00 PM", "18:50 PM", "20:15 PM"]]
+            },
+            {
+              "siteName": "CGV Trường Sơn (CGV CT Plaza)",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["10:00 AM", "16:45 PM", "19:00 PM"]]
+            },
+            {
+              "siteName": "CGV Crescent Mall",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["10:15 AM", "11:50 AM", "14:00 PM", "19:30 PM"]]
+            },
+            {
+              "siteName": "CGV Pandora City",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["10:10 AM", "12:30 PM", "14:50 PM", "16:20 PM", "19:30 PM"]]
+            },
+            {
+              "siteName": "CGV Aeon Tân Phú",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["09:40 AM", "12:00 PM", "14:20 PM", "16:40 PM", "19:00 PM"]]
+            },
+            { "siteName": "CGV Thảo Điền Pearl", "siteType": ["Rạp 2D"], "showTime": [["11:40 AM", "17:10 PM"]] },
+            {
+              "siteName": "CGV Vincom Thủ Đức",
+              "siteType": ["Rạp 2D", "Rạp STARIUM"],
+              "showTime": [
+                ["11:00 AM", "13:40 PM", "16:00 PM", "18:20 PM"],
+                ["17:15 PM", "19:45 PM"]
+              ]
+            },
+            {
+              "siteName": "CGV Vivo City",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["11:30 AM", "13:45 PM", "15:15 PM", "18:20 PM"]]
+            },
+            { "siteName": "CGV Pearl Plaza", "siteType": ["Rạp 2D"], "showTime": [["13:30 PM", "18:00 PM"]] },
+            { "siteName": "CGV Vincom Gò Vấp", "siteType": ["Rạp 2D"], "showTime": [["14:30 PM", "19:00 PM"]] },
+            {
+              "siteName": "CGV Aeon Bình Tân",
+              "siteType": ["Rạp 2D", "Rạp STARIUM"],
+              "showTime": [
+                ["11:00 AM", "15:30 PM", "20:00 PM"],
+                ["10:10 AM", "12:30 PM", "14:40 PM", "16:50 PM", "19:00 PM"]
+              ]
+            },
+            {
+              "siteName": "CGV Vincom Đồng Khởi",
+              "siteType": ["Rạp 2D"],
+              "showTime": [
+                ["11:30 AM", "12:00 PM", "13:50 PM", "14:20 PM", "16:10 PM", "16:40 PM", "18:30 PM", "19:00 PM"]
+              ]
+            },
+            {
+              "siteName": "CGV Saigonres Nguyễn Xí",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["10:20 AM", "15:20 PM", "19:30 PM"]]
+            },
+            {
+              "siteName": "CGV Sư Vạn Hạnh",
+              "siteType": ["Rạp 2D", "Rạp STARIUM"],
+              "showTime": [["09:20 AM", "14:00 PM", "16:20 PM", "19:10 PM"], ["20:30 PM"]]
+            },
+            {
+              "siteName": "CGV Vincom Center Landmark 81",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["12:30 PM", "17:10 PM", "19:40 PM"]]
+            },
+            { "siteName": "CGV Satra Củ Chi", "siteType": ["Rạp 2D"], "showTime": [["11:00 AM", "15:40 PM"]] },
+            {
+              "siteName": "CGV Giga Mall Thủ Đức",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["10:00 AM", "14:30 PM", "16:45 PM", "19:00 PM", "20:00 PM"]]
+            }
+          ],
+          [
+            {
+              "siteName": "CGV Hùng Vương Plaza",
+              "siteType": ["Rạp 4DX"],
+              "showTime": [["09:00 AM", "11:15 AM", "16:00 PM", "20:40 PM"]]
+            },
+            { "siteName": "CGV Vivo City", "siteType": ["Rạp 4DX"], "showTime": [["19:15 PM"]] }
+          ]
+        ]
+      },
+      {
+        "province": "Hà Nội",
+        "availabelFormat": ["2D Phụ Đề Việt", "2D Lồng Tiếng Việt", "4DX2D Phụ Đề Việt"],
+        "data": [
+          [
+            {
+              "siteName": "CGV Vincom Center Bà Triệu",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["15:45 PM", "20:00 PM"]]
+            },
+            {
+              "siteName": "CGV Mipec Tower",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["12:20 PM", "13:30 PM", "17:00 PM", "18:10 PM", "20:30 PM"]]
+            },
+            { "siteName": "CGV Hồ Gươm Plaza", "siteType": ["Rạp 2D"], "showTime": [["11:45 AM", "12:35 PM"]] },
+            {
+              "siteName": "CGV Aeon Long Biên",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["09:45 AM", "16:05 PM", "17:55 PM", "19:55 PM", "22:20 PM"]]
+            },
+            {
+              "siteName": "CGV Vincom Nguyễn Chí Thanh",
+              "siteType": ["Rạp 2D"],
+              "showTime": [
+                ["11:10 AM", "11:50 AM", "12:40 PM", "15:35 PM", "16:40 PM", "19:05 PM", "21:30 PM", "22:25 PM"]
+              ]
+            },
+            {
+              "siteName": "CGV Indochina Plaza Hà Nội",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["10:00 AM", "12:20 PM", "14:40 PM", "17:00 PM", "19:20 PM", "21:40 PM"]]
+            },
+            { "siteName": "CGV Hà Nội Centerpoint", "siteType": ["Rạp 2D"], "showTime": [["20:10 PM"]] },
+            {
+              "siteName": "CGV Tràng Tiền Plaza",
+              "siteType": ["Rạp 2D", "Rạp GOLD CLASS"],
+              "showTime": [["11:00 AM", "12:10 PM"], ["11:50 AM"]]
+            },
+            { "siteName": "CGV Trương Định Plaza", "siteType": ["Rạp 2D"], "showTime": [["12:45 PM", "17:10 PM"]] },
+            {
+              "siteName": "CGV Vincom Royal City",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["11:40 AM", "14:00 PM", "15:50 PM", "17:00 PM", "19:20 PM"]]
+            },
+            {
+              "siteName": "CGV Vincom Times City",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["15:15 PM", "16:25 PM", "20:50 PM"]]
+            },
+            {
+              "siteName": "CGV Sun Grand Thụy Khuê",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["12:40 PM", "14:50 PM", "17:00 PM", "19:10 PM", "21:25 PM"]]
+            },
+            {
+              "siteName": "CGV Sun Grand Lương Yên",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["12:20 PM", "16:40 PM", "19:50 PM", "21:00 PM"]]
+            },
+            {
+              "siteName": "CGV Vincom Metropolis Liễu Giai",
+              "siteType": ["Rạp 2D", "Rạp Lamour"],
+              "showTime": [["10:00 AM", "10:45 AM", "11:45 AM", "16:15 PM", "20:45 PM"], ["22:10 PM"]]
+            },
+            {
+              "siteName": "CGV Vincom Bắc Từ Liêm",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["11:05 AM", "12:25 PM", "14:35 PM", "15:25 PM", "16:35 PM"]]
+            },
+            {
+              "siteName": "CGV Xuân Diệu",
+              "siteType": ["Rạp 2D"],
+              "showTime": [
+                [
+                  "10:05 AM",
+                  "10:55 AM",
+                  "12:20 PM",
+                  "13:10 PM",
+                  "14:35 PM",
+                  "15:25 PM",
+                  "16:50 PM",
+                  "17:40 PM",
+                  "21:20 PM",
+                  "22:10 PM"
+                ]
+              ]
+            },
+            {
+              "siteName": "CGV Vincom Sky Lake Phạm Hùng",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["14:10 PM", "16:50 PM", "21:10 PM"]]
+            },
+            {
+              "siteName": "CGV Vincom Trần Duy Hưng",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["11:15 AM", "16:05 PM", "20:20 PM", "22:35 PM"]]
+            },
+            { "siteName": "CGV Vincom Ocean Park", "siteType": ["Rạp 2D"], "showTime": [["11:35 AM", "18:10 PM"]] }
+          ],
+          [
+            {
+              "siteName": "CGV Vincom Center Bà Triệu",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["10:15 AM", "13:00 PM", "17:40 PM"]]
+            },
+            {
+              "siteName": "CGV Mipec Tower",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["10:00 AM", "14:40 PM", "15:50 PM", "19:10 PM"]]
+            },
+            {
+              "siteName": "CGV Hồ Gươm Plaza",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["15:05 PM", "18:00 PM", "19:45 PM"]]
+            },
+            {
+              "siteName": "CGV Aeon Long Biên",
+              "siteType": ["Rạp 2D", "Rạp SCREENX"],
+              "showTime": [["11:45 AM", "13:55 PM", "15:25 PM", "18:50 PM", "21:05 PM"], ["09:00 AM"]]
+            },
+            { "siteName": "CGV Vincom Nguyễn Chí Thanh", "siteType": ["Rạp 2D"], "showTime": [["14:15 PM"]] },
+            {
+              "siteName": "CGV Rice City",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["10:40 AM", "12:00 PM", "15:00 PM", "15:55 PM", "17:20 PM", "18:55 PM", "19:40 PM"]]
+            },
+            { "siteName": "CGV Hà Nội Centerpoint", "siteType": ["Rạp 2D"], "showTime": [["18:00 PM"]] },
+            {
+              "siteName": "CGV Tràng Tiền Plaza",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["09:50 AM", "14:30 PM", "15:00 PM", "16:50 PM", "17:20 PM", "19:10 PM"]]
+            },
+            {
+              "siteName": "CGV Trương Định Plaza",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["10:30 AM", "15:00 PM", "19:25 PM", "20:45 PM"]]
+            },
+            {
+              "siteName": "CGV Vincom Royal City",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["11:10 AM", "12:10 PM", "13:30 PM", "18:10 PM", "20:30 PM"]]
+            },
+            {
+              "siteName": "CGV Vincom Times City",
+              "siteType": ["Rạp 2D"],
+              "showTime": [
+                [
+                  "10:00 AM",
+                  "11:15 AM",
+                  "12:15 PM",
+                  "13:00 PM",
+                  "13:30 PM",
+                  "14:30 PM",
+                  "15:45 PM",
+                  "16:45 PM",
+                  "17:30 PM",
+                  "18:00 PM",
+                  "19:00 PM",
+                  "20:15 PM",
+                  "21:15 PM"
+                ]
+              ]
+            },
+            {
+              "siteName": "CGV Vincom Long Biên",
+              "siteType": ["Rạp 2D", "Rạp GOLD CLASS"],
+              "showTime": [["19:05 PM"], ["17:30 PM"]]
+            },
+            {
+              "siteName": "CGV Mac Plaza (Machinco)",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["10:40 AM", "12:00 PM", "12:45 PM", "14:15 PM", "17:15 PM", "19:30 PM"]]
+            },
+            { "siteName": "CGV Sun Grand Thụy Khuê", "siteType": ["Rạp 2D"], "showTime": [["14:25 PM"]] },
+            {
+              "siteName": "CGV Sun Grand Lương Yên",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["10:05 AM", "14:30 PM", "18:50 PM"]]
+            },
+            { "siteName": "CGV Vincom Metropolis Liễu Giai", "siteType": ["Rạp 2D"], "showTime": [["18:30 PM"]] },
+            {
+              "siteName": "CGV Vincom Bắc Từ Liêm",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["10:15 AM", "13:15 PM", "17:35 PM", "18:35 PM", "19:45 PM", "20:45 PM"]]
+            },
+            { "siteName": "CGV Xuân Diệu", "siteType": ["Rạp 2D"], "showTime": [["19:05 PM", "19:55 PM"]] },
+            {
+              "siteName": "CGV Vincom Sky Lake Phạm Hùng",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["10:15 AM", "12:00 PM", "16:25 PM", "19:00 PM"]]
+            },
+            { "siteName": "CGV Vincom Trần Duy Hưng", "siteType": ["Rạp 2D"], "showTime": [["19:20 PM"]] },
+            {
+              "siteName": "CGV Aeon Hà Đông",
+              "siteType": ["Rạp 2D"],
+              "showTime": [
+                ["10:50 AM", "12:30 PM", "13:10 PM", "15:30 PM", "16:10 PM", "17:45 PM", "20:00 PM", "20:30 PM"]
+              ]
+            },
+            {
+              "siteName": "CGV Vincom Ocean Park",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["13:45 PM", "16:00 PM", "20:20 PM"]]
+            }
+          ],
+          [
+            {
+              "siteName": "CGV Vincom Center Bà Triệu",
+              "siteType": ["Rạp 4DX"],
+              "showTime": [["14:30 PM", "16:55 PM", "19:20 PM", "21:45 PM"]]
+            }
+          ]
+        ]
+      },
+      {
+        "province": "Đà Nẵng",
+        "availabelFormat": ["2D Phụ Đề Việt", "2D Lồng Tiếng Việt"],
+        "data": [
+          [
+            { "siteName": "CGV Vĩnh Trung Plaza", "siteType": ["Rạp 2D"], "showTime": [["13:00 PM"]] },
+            { "siteName": "CGV Vincom Đà Nẵng", "siteType": ["Rạp 2D"], "showTime": [["20:10 PM"]] }
+          ],
+          [
+            {
+              "siteName": "CGV Vĩnh Trung Plaza",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["09:40 AM", "15:10 PM", "18:20 PM"]]
+            },
+            { "siteName": "CGV Vincom Đà Nẵng", "siteType": ["Rạp 2D"], "showTime": [["09:20 AM", "13:40 PM"]] }
+          ]
+        ]
+      },
+      {
+        "province": "Cần Thơ",
+        "availabelFormat": ["2D Phụ Đề Việt", "2D Lồng Tiếng Việt"],
+        "data": [
+          [
+            {
+              "siteName": "CGV Vincom Xuân Khánh",
+              "siteType": ["Rạp GOLD CLASS", "Rạp 2D"],
+              "showTime": [["15:00 PM"], ["19:10 PM"]]
+            }
+          ],
+          [
+            {
+              "siteName": "CGV Sense City",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["10:20 AM", "14:50 PM", "17:00 PM", "19:15 PM", "21:30 PM"]]
+            },
+            { "siteName": "CGV Vincom Hùng Vương", "siteType": ["Rạp 2D"], "showTime": [["10:50 AM", "14:30 PM"]] },
+            {
+              "siteName": "CGV Vincom Xuân Khánh",
+              "siteType": ["Rạp 2D", "Rạp GOLD CLASS"],
+              "showTime": [["10:10 AM", "13:50 PM", "16:10 PM", "17:50 PM"], ["12:45 PM"]]
+            }
+          ]
+        ]
+      },
+      {
+        "province": "Đồng Nai",
+        "availabelFormat": ["2D Phụ Đề Việt", "2D Lồng Tiếng Việt"],
+        "data": [
+          [
+            {
+              "siteName": "CGV Coopmart Biên Hòa",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["12:00 PM", "17:00 PM", "20:10 PM"]]
+            },
+            { "siteName": "CGV Big C Đồng Nai", "siteType": ["Rạp 2D"], "showTime": [["13:50 PM", "19:50 PM"]] }
+          ],
+          [
+            {
+              "siteName": "CGV Coopmart Biên Hòa",
+              "siteType": ["Rạp 2D"],
+              "showTime": [
+                ["10:15 AM", "11:10 AM", "13:20 PM", "14:30 PM", "15:40 PM", "17:40 PM", "18:20 PM", "19:30 PM"]
+              ]
+            },
+            {
+              "siteName": "CGV Big C Đồng Nai",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["11:00 AM", "14:40 PM", "17:20 PM", "18:40 PM"]]
+            }
+          ]
+        ]
+      },
+      {
+        "province": "Hải Phòng",
+        "availabelFormat": ["2D Phụ Đề Việt", "2D Lồng Tiếng Việt"],
+        "data": [
+          [
+            { "siteName": "CGV Vincom Hải Phòng", "siteType": ["Rạp 2D"], "showTime": [["16:40 PM"]] },
+            { "siteName": "CGV Aeon Mall Hải Phòng", "siteType": ["Rạp 2D"], "showTime": [["12:20 PM", "19:20 PM"]] }
+          ],
+          [
+            { "siteName": "CGV Vincom Hải Phòng", "siteType": ["Rạp 2D"], "showTime": [["14:30 PM", "18:50 PM"]] },
+            {
+              "siteName": "CGV Aeon Mall Hải Phòng",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["10:50 AM", "13:20 PM", "15:45 PM", "18:10 PM"]]
+            }
+          ]
+        ]
+      },
+      {
+        "province": "Quảng Ninh",
+        "availabelFormat": ["2D Phụ Đề Việt", "2D Lồng Tiếng Việt"],
+        "data": [
+          [{ "siteName": "CGV Vincom Hạ Long", "siteType": ["Rạp 2D"], "showTime": [["15:30 PM", "20:00 PM"]] }],
+          [
+            { "siteName": "CGV Vincom Hạ Long", "siteType": ["Rạp 2D"], "showTime": [["11:20 AM", "17:45 PM"]] },
+            { "siteName": "CGV Vincom Móng Cái", "siteType": ["Rạp 2D"], "showTime": [["12:30 PM", "19:15 PM"]] },
+            { "siteName": "CGV Vincom Cẩm Phả", "siteType": ["Rạp 2D"], "showTime": [["19:30 PM"]] }
+          ]
+        ]
+      },
+      {
+        "province": "Bà Rịa-Vũng Tàu",
+        "availabelFormat": ["2D Phụ Đề Việt", "2D Lồng Tiếng Việt"],
+        "data": [
+          [{ "siteName": "CGV Lam Sơn Square", "siteType": ["Rạp 2D"], "showTime": [["14:30 PM"]] }],
+          [{ "siteName": "CGV Lam Sơn Square", "siteType": ["Rạp 2D"], "showTime": [["10:00 AM", "19:00 PM"]] }]
+        ]
+      },
+      {
+        "province": "Bình Định",
+        "availabelFormat": ["2D Lồng Tiếng Việt"],
+        "data": [[{ "siteName": "CGV Kim Cúc Plaza", "siteType": ["Rạp 2D"], "showTime": [["18:00 PM"]] }]]
+      },
+      {
+        "province": "Bình Dương",
+        "availabelFormat": ["2D Phụ Đề Việt", "2D Lồng Tiếng Việt"],
+        "data": [
+          [{ "siteName": "CGV Bình Dương Square", "siteType": ["Rạp 2D"], "showTime": [["14:50 PM"]] }],
+          [
+            {
+              "siteName": "CGV Bình Dương Square",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["09:30 AM", "12:30 PM", "17:20 PM", "19:20 PM"]]
+            },
+            {
+              "siteName": "CGV Aeon Canary",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["10:40 AM", "12:40 PM", "15:00 PM", "17:40 PM", "19:00 PM", "20:00 PM"]]
+            }
+          ]
+        ]
+      },
+      {
+        "province": "Đắk Lắk",
+        "availabelFormat": ["2D Phụ Đề Việt", "2D Lồng Tiếng Việt"],
+        "data": [
+          [{ "siteName": "CGV Buôn Mê Thuột", "siteType": ["Rạp 2D"], "showTime": [["14:00 PM", "16:50 PM"]] }],
+          [{ "siteName": "CGV Buôn Mê Thuột", "siteType": ["Rạp 2D"], "showTime": [["10:00 AM", "19:00 PM"]] }]
+        ]
+      },
+      {
+        "province": "Trà Vinh",
+        "availabelFormat": ["2D Lồng Tiếng Việt"],
+        "data": [[{ "siteName": "CGV Vincom Trà Vinh", "siteType": ["Rạp 2D"], "showTime": [["11:40 AM"]] }]]
+      },
+      {
+        "province": "Yên Bái",
+        "availabelFormat": ["2D Phụ Đề Việt", "2D Lồng Tiếng Việt"],
+        "data": [
+          [{ "siteName": "CGV Vincom Yên Bái", "siteType": ["Rạp 2D"], "showTime": [["15:30 PM"]] }],
+          [{ "siteName": "CGV Vincom Yên Bái", "siteType": ["Rạp 2D"], "showTime": [["20:00 PM"]] }]
+        ]
+      },
+      {
+        "province": "Vĩnh Long",
+        "availabelFormat": ["2D Lồng Tiếng Việt"],
+        "data": [[{ "siteName": "CGV Vincom Vĩnh Long", "siteType": ["Rạp 2D"], "showTime": [["18:00 PM"]] }]]
+      },
+      {
+        "province": "Kiên Giang",
+        "availabelFormat": ["2D Lồng Tiếng Việt"],
+        "data": [
+          [
+            {
+              "siteName": "CGV Vincom Rạch Giá",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["09:40 AM", "12:00 PM", "14:20 PM", "16:40 PM"]]
+            }
+          ]
+        ]
+      },
+      {
+        "province": "Hậu Giang",
+        "availabelFormat": ["2D Lồng Tiếng Việt"],
+        "data": [[{ "siteName": "CGV Vincom Vị Thanh", "siteType": ["Rạp 2D"], "showTime": [["17:20 PM"]] }]]
+      },
+      {
+        "province": "Hà Tĩnh",
+        "availabelFormat": ["2D Phụ Đề Việt", "2D Lồng Tiếng Việt"],
+        "data": [
+          [{ "siteName": "CGV Vincom Hà Tĩnh", "siteType": ["Rạp 2D"], "showTime": [["16:30 PM"]] }],
+          [{ "siteName": "CGV Vincom Hà Tĩnh", "siteType": ["Rạp 2D"], "showTime": [["10:30 AM"]] }]
+        ]
+      },
+      {
+        "province": "Phú Yên",
+        "availabelFormat": ["2D Lồng Tiếng Việt"],
+        "data": [[{ "siteName": "CGV Vincom Phú Yên", "siteType": ["Rạp 2D"], "showTime": [["09:30 AM", "17:00 PM"]] }]]
+      },
+      {
+        "province": "Đồng Tháp",
+        "availabelFormat": ["2D Lồng Tiếng Việt"],
+        "data": [
+          [
+            {
+              "siteName": "CGV Vincom Cao Lãnh",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["09:40 AM", "12:20 PM", "16:40 PM", "18:20 PM"]]
+            }
+          ]
+        ]
+      },
+      {
+        "province": "Khánh Hòa",
+        "availabelFormat": ["2D Lồng Tiếng Việt"],
+        "data": [
+          [
+            {
+              "siteName": "CGV Big C Nha Trang",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["10:20 AM", "12:30 PM", "15:40 PM", "17:30 PM", "19:00 PM"]]
+            }
+          ]
+        ]
+      },
+      {
+        "province": "Kon Tum",
+        "availabelFormat": ["2D Lồng Tiếng Việt"],
+        "data": [[{ "siteName": "CGV Vincom Kon Tum", "siteType": ["Rạp 2D"], "showTime": [["13:50 PM", "17:20 PM"]] }]]
+      },
+      {
+        "province": "Lạng Sơn",
+        "availabelFormat": ["2D Lồng Tiếng Việt"],
+        "data": [
+          [
+            {
+              "siteName": "CGV Vincom Lạng Sơn",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["10:15 AM", "14:30 PM", "16:30 PM", "19:30 PM"]]
+            }
+          ]
+        ]
+      },
+      {
+        "province": "Nghệ An",
+        "availabelFormat": ["2D Lồng Tiếng Việt"],
+        "data": [
+          [
+            {
+              "siteName": "CGV Vinh Centre",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["10:00 AM", "14:45 PM", "19:30 PM"]]
+            }
+          ]
+        ]
+      },
+      {
+        "province": "Quảng Ngãi",
+        "availabelFormat": ["2D Lồng Tiếng Việt"],
+        "data": [
+          [{ "siteName": "CGV Vincom Quảng Ngãi", "siteType": ["Rạp 2D"], "showTime": [["14:30 PM", "18:50 PM"]] }]
+        ]
+      },
+      {
+        "province": "Sóc Trăng",
+        "availabelFormat": ["2D Lồng Tiếng Việt"],
+        "data": [[{ "siteName": "CGV Vincom Sóc Trăng", "siteType": ["Rạp 2D"], "showTime": [["18:30 PM"]] }]]
+      },
+      {
+        "province": "Sơn La",
+        "availabelFormat": ["2D Phụ Đề Việt", "2D Lồng Tiếng Việt"],
+        "data": [
+          [{ "siteName": "CGV Vincom Sơn La", "siteType": ["Rạp 2D"], "showTime": [["15:00 PM", "19:00 PM"]] }],
+          [{ "siteName": "CGV Vincom Sơn La", "siteType": ["Rạp 2D"], "showTime": [["19:50 PM"]] }]
+        ]
+      },
+      {
+        "province": "Tây Ninh",
+        "availabelFormat": ["2D Lồng Tiếng Việt"],
+        "data": [
+          [{ "siteName": "CGV Vincom Tây Ninh", "siteType": ["Rạp 2D"], "showTime": [["10:30 AM", "17:00 PM"]] }]
+        ]
+      },
+      {
+        "province": "Thái Nguyên",
+        "availabelFormat": ["2D Phụ Đề Việt", "2D Lồng Tiếng Việt"],
+        "data": [
+          [{ "siteName": "CGV Vincom Thái Nguyên", "siteType": ["Rạp 2D"], "showTime": [["10:15 AM", "16:55 PM"]] }],
+          [{ "siteName": "CGV Vincom Thái Nguyên", "siteType": ["Rạp 2D"], "showTime": [["19:30 PM"]] }]
+        ]
+      },
+      {
+        "province": "Tiền Giang",
+        "availabelFormat": ["2D Lồng Tiếng Việt"],
+        "data": [
+          [{ "siteName": "CGV GO! Mỹ Tho", "siteType": ["Rạp 2D"], "showTime": [["11:40 AM", "17:40 PM", "19:50 PM"]] }]
+        ]
+      }
+    ]
+  },
+  {
+    "images": "https://www.cgv.vn/media/catalog/product/cache/1/image/c5f0a1eff4c394a251036189ccddaacd/m/g/mg_main-poster_layered_1_.jpg",
+    "title": "ĐIỀU ƯỚC CUỐI CỦA TÙ NHÂN 2037",
+    "director": "Mo Hong Jin",
+    "actor": "Hong Je Yi, Kim Ji Young, Kim Mi Hwa, Hwang Seok Jeong, Shin Eun Hung, Jeon So Min, Yoon Mi Kyung, Jung In Ki",
+    "genre": "Tâm Lý",
+    "release": "29/07/2022",
+    "runtime": "111 phút",
+    "language": "Tiếng Hàn - Phụ đề tiếng Việt",
+    "rating": "C16 - Phim cấm khán giả dưới 16 tuổi",
+    "technology": [],
+    "description": "Ở tuổi 19, thay vì đến trường như bao bạn bè đồng trang lứa, Yoon-yeong phải nỗ lực hết mình để đi làm thêm kiếm tiền. Khao khát một cuộc sống tốt đẹp hơn cho mình và người mẹ khiếm thính, Yoon-yeong đặt mục tiêu thi đỗ kỳ thi công chức lên trên hết. Bất ngờ và trớ trêu thay, một sự cố khủng khiếp xảy ra, biến Yoon-yeong từ nạn nhân đáng thương trở thành kẻ giết người. Trong thời điểm tuyệt vọng và bất lực nhất, Yoon-yeong đã gặp những người chị em trong phòng giam số 12. Đằng sau mỗi người là một câu chuyện khác nhau, nhưng họ đã trao nhau tình yêu thương và niềm hy vọng để cùng hướng về một tương lai tươi sáng ngoài song sắt nhà tù.",
+    "trailerEmbed": "www.youtube.com/embed/1AXeEfyTLKs?rel=0&showinfo=0",
+    "youtubeID": "1AXeEfyTLKs",
+    "lichChieu": [
+      {
+        "province": "Hồ Chí Minh",
+        "availabelFormat": ["2D Eng&Viet Sub"],
+        "data": [
+          [
+            {
+              "siteName": "CGV Hùng Vương Plaza",
+              "siteType": ["Rạp 2D"],
+              "showTime": [
+                [
+                  "08:45 AM",
+                  "09:50 AM",
+                  "11:40 AM",
+                  "15:40 PM",
+                  "16:20 PM",
+                  "18:00 PM",
+                  "20:20 PM",
+                  "21:20 PM",
+                  "22:30 PM"
+                ]
+              ]
+            },
+            {
+              "siteName": "CGV Sư Vạn Hạnh",
+              "siteType": ["Rạp 2D"],
+              "showTime": [
+                [
+                  "08:50 AM",
+                  "11:40 AM",
+                  "15:00 PM",
+                  "17:50 PM",
+                  "19:00 PM",
+                  "19:40 PM",
+                  "20:10 PM",
+                  "21:20 PM",
+                  "22:10 PM"
+                ]
+              ]
+            },
+            {
+              "siteName": "CGV Pandora City",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["09:30 AM", "10:50 AM", "16:50 PM", "18:40 PM", "20:50 PM", "21:40 PM"]]
+            },
+            {
+              "siteName": "CGV Trường Sơn (CGV CT Plaza)",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["09:40 AM", "12:00 PM", "14:15 PM", "16:30 PM", "19:15 PM", "20:40 PM", "21:30 PM"]]
+            },
+            {
+              "siteName": "CGV Vincom Center Landmark 81",
+              "siteType": ["Rạp 2D"],
+              "showTime": [
+                [
+                  "09:50 AM",
+                  "10:40 AM",
+                  "13:10 PM",
+                  "14:30 PM",
+                  "15:30 PM",
+                  "17:50 PM",
+                  "20:10 PM",
+                  "21:40 PM",
+                  "22:30 PM"
+                ]
+              ]
+            },
+            {
+              "siteName": "CGV Aeon Tân Phú",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["10:00 AM", "12:20 PM", "14:40 PM", "17:00 PM", "19:20 PM", "21:40 PM", "22:20 PM"]]
+            },
+            {
+              "siteName": "CGV Lý Chính Thắng",
+              "siteType": ["Rạp 2D"],
+              "showTime": [
+                ["10:00 AM", "12:10 PM", "14:30 PM", "16:40 PM", "18:50 PM", "19:40 PM", "21:00 PM", "21:50 PM"]
+              ]
+            },
+            {
+              "siteName": "CGV Pearl Plaza",
+              "siteType": ["Rạp 2D"],
+              "showTime": [
+                [
+                  "10:10 AM",
+                  "12:35 PM",
+                  "14:10 PM",
+                  "15:00 PM",
+                  "16:45 PM",
+                  "17:30 PM",
+                  "19:45 PM",
+                  "21:00 PM",
+                  "22:50 PM"
+                ]
+              ]
+            },
+            {
+              "siteName": "CGV Vincom Đồng Khởi",
+              "siteType": ["Rạp 2D"],
+              "showTime": [
+                [
+                  "10:20 AM",
+                  "10:50 AM",
+                  "12:40 PM",
+                  "13:10 PM",
+                  "15:00 PM",
+                  "15:30 PM",
+                  "17:20 PM",
+                  "17:50 PM",
+                  "19:40 PM",
+                  "20:10 PM",
+                  "22:00 PM",
+                  "22:30 PM",
+                  "23:40 PM"
+                ]
+              ]
+            },
+            {
+              "siteName": "CGV Vincom Thủ Đức",
+              "siteType": ["Rạp 2D", "Rạp STARIUM"],
+              "showTime": [
+                ["10:20 AM", "15:30 PM", "18:00 PM", "21:00 PM", "22:20 PM"],
+                ["12:20 PM", "14:45 PM"]
+              ]
+            },
+            {
+              "siteName": "CGV Giga Mall Thủ Đức",
+              "siteType": ["Rạp 2D"],
+              "showTime": [
+                [
+                  "10:20 AM",
+                  "11:40 AM",
+                  "12:45 PM",
+                  "15:10 PM",
+                  "17:30 PM",
+                  "18:00 PM",
+                  "20:15 PM",
+                  "21:15 PM",
+                  "22:20 PM"
+                ]
+              ]
+            },
+            {
+              "siteName": "CGV Thảo Điền Pearl",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["10:25 AM", "12:50 PM", "14:35 PM", "16:25 PM", "18:20 PM", "20:20 PM"]]
+            },
+            {
+              "siteName": "CGV Crescent Mall",
+              "siteType": ["Rạp 2D", "Rạp Lamour"],
+              "showTime": [
+                ["10:30 AM", "12:50 PM", "15:10 PM", "17:30 PM", "18:15 PM"],
+                ["19:40 PM", "22:00 PM"]
+              ]
+            },
+            {
+              "siteName": "CGV Saigonres Nguyễn Xí",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["10:30 AM", "12:00 PM", "14:45 PM", "16:20 PM", "19:00 PM", "20:30 PM"]]
+            },
+            {
+              "siteName": "CGV Parkson Đồng Khởi",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["10:30 AM", "13:50 PM", "16:00 PM", "18:10 PM", "20:30 PM", "21:15 PM", "22:40 PM"]]
+            },
+            {
+              "siteName": "CGV Liberty Citypoint",
+              "siteType": ["Rạp SWEETBOX", "Rạp 2D"],
+              "showTime": [
+                ["11:00 AM", "15:40 PM", "20:25 PM"],
+                ["17:40 PM", "21:30 PM", "22:35 PM"]
+              ]
+            },
+            {
+              "siteName": "CGV Vivo City",
+              "siteType": ["Rạp 2D", "Rạp Cine & Suite"],
+              "showTime": [
+                ["11:10 AM", "13:30 PM", "15:50 PM", "18:15 PM", "19:45 PM", "20:50 PM"],
+                ["12:15 PM", "14:30 PM"]
+              ]
+            },
+            {
+              "siteName": "CGV Aeon Bình Tân",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["11:40 AM", "13:50 PM", "16:10 PM", "18:20 PM", "20:40 PM", "22:30 PM"]]
+            },
+            {
+              "siteName": "CGV Vincom Gò Vấp",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["12:30 PM", "14:45 PM", "17:00 PM", "19:15 PM", "21:30 PM"]]
+            },
+            {
+              "siteName": "CGV Satra Củ Chi",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["12:30 PM", "14:40 PM", "16:50 PM", "19:30 PM", "20:45 PM"]]
+            }
+          ]
+        ]
+      },
+      {
+        "province": "Hà Nội",
+        "availabelFormat": ["2D Eng&Viet Sub"],
+        "data": [
+          [
+            {
+              "siteName": "CGV Aeon Long Biên",
+              "siteType": ["Rạp 2D", "Rạp SCREENX"],
+              "showTime": [
+                [
+                  "09:20 AM",
+                  "10:20 AM",
+                  "10:40 AM",
+                  "11:20 AM",
+                  "12:15 PM",
+                  "12:40 PM",
+                  "13:00 PM",
+                  "14:10 PM",
+                  "14:45 PM",
+                  "15:10 PM",
+                  "16:20 PM",
+                  "17:30 PM",
+                  "18:00 PM",
+                  "18:40 PM",
+                  "19:25 PM",
+                  "21:10 PM",
+                  "21:40 PM",
+                  "22:15 PM",
+                  "23:20 PM"
+                ],
+                ["13:25 PM", "20:25 PM", "22:55 PM"]
+              ]
+            },
+            {
+              "siteName": "CGV Indochina Plaza Hà Nội",
+              "siteType": ["Rạp 2D"],
+              "showTime": [
+                [
+                  "10:00 AM",
+                  "10:20 AM",
+                  "11:40 AM",
+                  "12:40 PM",
+                  "14:00 PM",
+                  "15:00 PM",
+                  "16:20 PM",
+                  "17:20 PM",
+                  "18:40 PM",
+                  "19:40 PM",
+                  "21:00 PM",
+                  "22:00 PM"
+                ]
+              ]
+            },
+            {
+              "siteName": "CGV Vincom Times City",
+              "siteType": ["Rạp 2D"],
+              "showTime": [
+                [
+                  "10:00 AM",
+                  "10:30 AM",
+                  "12:15 PM",
+                  "12:45 PM",
+                  "13:50 PM",
+                  "14:30 PM",
+                  "15:00 PM",
+                  "16:00 PM",
+                  "16:20 PM",
+                  "16:45 PM",
+                  "18:20 PM",
+                  "19:00 PM",
+                  "19:25 PM",
+                  "19:45 PM",
+                  "20:40 PM",
+                  "21:15 PM",
+                  "21:40 PM",
+                  "22:00 PM"
+                ]
+              ]
+            },
+            {
+              "siteName": "CGV Hà Nội Centerpoint",
+              "siteType": ["Rạp 2D"],
+              "showTime": [
+                ["10:00 AM", "12:20 PM", "14:40 PM", "15:45 PM", "18:10 PM", "19:35 PM", "20:30 PM", "21:50 PM"]
+              ]
+            },
+            {
+              "siteName": "CGV Vincom Nguyễn Chí Thanh",
+              "siteType": ["Rạp 2D", "Rạp GOLD CLASS"],
+              "showTime": [
+                [
+                  "10:20 AM",
+                  "11:30 AM",
+                  "13:55 PM",
+                  "15:50 PM",
+                  "16:20 PM",
+                  "17:45 PM",
+                  "18:45 PM",
+                  "20:00 PM",
+                  "21:10 PM",
+                  "22:35 PM"
+                ],
+                ["12:10 PM"]
+              ]
+            },
+            {
+              "siteName": "CGV Vincom Ocean Park",
+              "siteType": ["Rạp 2D"],
+              "showTime": [
+                [
+                  "10:20 AM",
+                  "11:10 AM",
+                  "13:25 PM",
+                  "14:50 PM",
+                  "15:35 PM",
+                  "17:50 PM",
+                  "20:00 PM",
+                  "21:10 PM",
+                  "22:05 PM"
+                ]
+              ]
+            },
+            {
+              "siteName": "CGV Sun Grand Thụy Khuê",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["10:25 AM", "17:40 PM", "18:55 PM", "20:00 PM", "21:10 PM"]]
+            },
+            {
+              "siteName": "CGV Tràng Tiền Plaza",
+              "siteType": ["Rạp 2D", "Rạp GOLD CLASS"],
+              "showTime": [
+                ["10:25 AM", "12:25 PM", "14:45 PM", "19:40 PM", "21:30 PM", "21:45 PM"],
+                ["16:20 PM", "18:50 PM", "21:20 PM"]
+              ]
+            },
+            {
+              "siteName": "CGV Aeon Hà Đông",
+              "siteType": ["Rạp 2D", "Rạp GOLD CLASS", "Rạp Lamour"],
+              "showTime": [
+                [
+                  "10:30 AM",
+                  "11:00 AM",
+                  "11:50 AM",
+                  "13:20 PM",
+                  "15:40 PM",
+                  "16:50 PM",
+                  "18:00 PM",
+                  "19:10 PM",
+                  "20:20 PM",
+                  "21:30 PM",
+                  "22:40 PM"
+                ],
+                ["14:00 PM", "16:20 PM", "18:40 PM", "21:00 PM"],
+                ["15:10 PM", "17:30 PM", "19:45 PM", "22:05 PM"]
+              ]
+            },
+            {
+              "siteName": "CGV Mipec Tower",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["10:35 AM", "13:00 PM", "15:25 PM", "17:50 PM", "19:20 PM", "20:15 PM", "21:45 PM"]]
+            },
+            {
+              "siteName": "CGV Vincom Royal City",
+              "siteType": ["Rạp GOLD CLASS", "Rạp 2D"],
+              "showTime": [
+                ["10:40 AM", "13:00 PM", "15:20 PM", "17:40 PM", "20:00 PM", "22:20 PM"],
+                [
+                  "11:00 AM",
+                  "11:30 AM",
+                  "12:00 PM",
+                  "13:20 PM",
+                  "13:50 PM",
+                  "14:20 PM",
+                  "15:40 PM",
+                  "16:10 PM",
+                  "16:40 PM",
+                  "18:00 PM",
+                  "18:30 PM",
+                  "19:00 PM",
+                  "20:20 PM",
+                  "20:50 PM",
+                  "21:20 PM",
+                  "22:40 PM"
+                ]
+              ]
+            },
+            {
+              "siteName": "CGV Xuân Diệu",
+              "siteType": ["Rạp 2D"],
+              "showTime": [
+                [
+                  "10:45 AM",
+                  "11:35 AM",
+                  "13:00 PM",
+                  "13:50 PM",
+                  "15:15 PM",
+                  "16:05 PM",
+                  "17:30 PM",
+                  "18:20 PM",
+                  "19:45 PM",
+                  "20:35 PM",
+                  "22:00 PM",
+                  "22:50 PM"
+                ]
+              ]
+            },
+            {
+              "siteName": "CGV Trương Định Plaza",
+              "siteType": ["Rạp 2D"],
+              "showTime": [
+                ["10:45 AM", "14:05 PM", "15:20 PM", "16:20 PM", "17:45 PM", "18:35 PM", "20:20 PM", "21:40 PM"]
+              ]
+            },
+            {
+              "siteName": "CGV Vincom Center Bà Triệu",
+              "siteType": ["Rạp 2D"],
+              "showTime": [
+                [
+                  "10:50 AM",
+                  "13:20 PM",
+                  "14:40 PM",
+                  "17:00 PM",
+                  "18:05 PM",
+                  "19:25 PM",
+                  "20:25 PM",
+                  "21:50 PM",
+                  "22:45 PM"
+                ]
+              ]
+            },
+            {
+              "siteName": "CGV Sun Grand Lương Yên",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["10:50 AM", "13:00 PM", "15:10 PM", "17:20 PM", "19:30 PM", "21:40 PM"]]
+            },
+            {
+              "siteName": "CGV Vincom Trần Duy Hưng",
+              "siteType": ["Rạp 2D"],
+              "showTime": [
+                [
+                  "10:50 AM",
+                  "11:40 AM",
+                  "13:10 PM",
+                  "14:00 PM",
+                  "15:30 PM",
+                  "16:20 PM",
+                  "17:10 PM",
+                  "17:50 PM",
+                  "18:40 PM",
+                  "19:30 PM",
+                  "20:10 PM",
+                  "21:00 PM",
+                  "21:50 PM",
+                  "22:30 PM"
+                ]
+              ]
+            },
+            {
+              "siteName": "CGV Vincom Sky Lake Phạm Hùng",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["11:10 AM", "13:45 PM", "15:55 PM", "18:05 PM", "20:15 PM", "21:40 PM", "22:25 PM"]]
+            },
+            {
+              "siteName": "CGV Hồ Gươm Plaza",
+              "siteType": ["Rạp 2D"],
+              "showTime": [
+                ["11:15 AM", "13:30 PM", "14:45 PM", "15:45 PM", "18:15 PM", "20:15 PM", "21:20 PM", "22:40 PM"]
+              ]
+            },
+            {
+              "siteName": "CGV Vincom Bắc Từ Liêm",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["11:20 AM", "13:45 PM", "16:00 PM", "18:10 PM", "20:20 PM", "21:55 PM", "22:55 PM"]]
+            },
+            {
+              "siteName": "CGV Rice City",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["11:55 AM", "14:15 PM", "20:20 PM", "21:15 PM", "22:00 PM"]]
+            },
+            {
+              "siteName": "CGV Vincom Long Biên",
+              "siteType": ["Rạp 2D", "Rạp GOLD CLASS"],
+              "showTime": [["12:55 PM", "21:15 PM"], ["19:40 PM"]]
+            },
+            {
+              "siteName": "CGV Mac Plaza (Machinco)",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["12:55 PM", "15:00 PM", "16:30 PM", "18:45 PM", "20:15 PM", "21:15 PM", "22:30 PM"]]
+            },
+            {
+              "siteName": "CGV Vincom Metropolis Liễu Giai",
+              "siteType": ["Rạp 2D", "Rạp Lamour", "Rạp LG Cinema"],
+              "showTime": [
+                ["14:00 PM", "18:45 PM", "22:00 PM", "23:00 PM"],
+                ["17:10 PM"],
+                ["17:40 PM", "20:00 PM", "22:20 PM"]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "province": "Đà Nẵng",
+        "availabelFormat": ["2D Eng&Viet Sub"],
+        "data": [
+          [
+            {
+              "siteName": "CGV Vincom Đà Nẵng",
+              "siteType": ["Rạp 2D"],
+              "showTime": [
+                [
+                  "10:00 AM",
+                  "11:30 AM",
+                  "12:30 PM",
+                  "14:45 PM",
+                  "17:00 PM",
+                  "18:00 PM",
+                  "18:40 PM",
+                  "19:50 PM",
+                  "20:30 PM"
+                ]
+              ]
+            },
+            {
+              "siteName": "CGV Vĩnh Trung Plaza",
+              "siteType": ["Rạp 2D"],
+              "showTime": [
+                [
+                  "10:00 AM",
+                  "11:50 AM",
+                  "13:10 PM",
+                  "14:00 PM",
+                  "16:10 PM",
+                  "17:20 PM",
+                  "18:00 PM",
+                  "19:45 PM",
+                  "20:50 PM"
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "province": "Cần Thơ",
+        "availabelFormat": ["2D Eng&Viet Sub"],
+        "data": [
+          [
+            {
+              "siteName": "CGV Vincom Xuân Khánh",
+              "siteType": ["Rạp 2D", "Rạp GOLD CLASS"],
+              "showTime": [
+                ["09:10 AM", "21:30 PM", "22:30 PM"],
+                ["17:30 PM", "19:50 PM"]
+              ]
+            },
+            {
+              "siteName": "CGV Sense City",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["11:20 AM", "14:00 PM", "20:20 PM"]]
+            },
+            {
+              "siteName": "CGV Vincom Hùng Vương",
+              "siteType": ["Rạp 2D", "Rạp SWEETBOX"],
+              "showTime": [["12:20 PM", "16:45 PM", "19:00 PM", "22:10 PM"], ["20:00 PM"]]
+            }
+          ]
+        ]
+      },
+      {
+        "province": "Đồng Nai",
+        "availabelFormat": ["2D Eng&Viet Sub"],
+        "data": [
+          [
+            {
+              "siteName": "CGV Coopmart Biên Hòa",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["09:10 AM", "15:20 PM", "22:00 PM"]]
+            },
+            { "siteName": "CGV Big C Đồng Nai", "siteType": ["Rạp 2D"], "showTime": [["10:20 AM", "21:00 PM"]] }
+          ]
+        ]
+      },
+      {
+        "province": "Hải Phòng",
+        "availabelFormat": ["2D Eng&Viet Sub"],
+        "data": [
+          [
+            {
+              "siteName": "CGV Vincom Hải Phòng",
+              "siteType": ["Rạp 2D", "Rạp GOLD CLASS"],
+              "showTime": [
+                ["10:15 AM", "13:15 PM", "15:00 PM", "18:00 PM", "19:30 PM", "21:40 PM"],
+                ["15:50 PM", "20:50 PM"]
+              ]
+            },
+            {
+              "siteName": "CGV Aeon Mall Hải Phòng",
+              "siteType": ["Rạp 2D", "Rạp Cine & Forest", "Rạp Cine & Suite"],
+              "showTime": [
+                ["11:30 AM", "17:00 PM", "17:50 PM", "20:30 PM", "21:30 PM", "22:00 PM"],
+                ["13:00 PM", "18:00 PM", "20:20 PM"],
+                ["13:40 PM", "16:10 PM", "21:00 PM"]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "province": "Quảng Ninh",
+        "availabelFormat": ["2D Eng&Viet Sub"],
+        "data": [
+          [
+            {
+              "siteName": "CGV Vincom Hạ Long",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["10:35 AM", "12:50 PM", "15:05 PM", "18:30 PM", "19:40 PM", "20:45 PM"]]
+            },
+            {
+              "siteName": "CGV Vincom Cẩm Phả",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["11:15 AM", "14:30 PM", "16:30 PM", "20:15 PM", "21:20 PM"]]
+            },
+            {
+              "siteName": "CGV Vincom Móng Cái",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["11:50 AM", "14:00 PM", "16:10 PM", "20:05 PM"]]
+            }
+          ]
+        ]
+      },
+      {
+        "province": "Bà Rịa-Vũng Tàu",
+        "availabelFormat": ["2D Eng&Viet Sub"],
+        "data": [
+          [
+            {
+              "siteName": "CGV Lam Sơn Square",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["10:20 AM", "12:35 PM", "14:50 PM", "17:05 PM", "19:20 PM", "21:40 PM"]]
+            }
+          ]
+        ]
+      },
+      {
+        "province": "Bình Định",
+        "availabelFormat": ["2D Eng&Viet Sub"],
+        "data": [
+          [
+            {
+              "siteName": "CGV Kim Cúc Plaza",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["12:30 PM", "14:00 PM", "20:10 PM"]]
+            }
+          ]
+        ]
+      },
+      {
+        "province": "Bình Dương",
+        "availabelFormat": ["2D Eng&Viet Sub"],
+        "data": [
+          [
+            {
+              "siteName": "CGV Bình Dương Square",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["09:00 AM", "13:00 PM", "16:50 PM", "18:30 PM", "20:50 PM", "21:50 PM"]]
+            },
+            {
+              "siteName": "CGV Aeon Canary",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["09:40 AM", "12:00 PM", "14:00 PM", "19:40 PM", "21:00 PM", "22:00 PM"]]
+            }
+          ]
+        ]
+      },
+      {
+        "province": "Đắk Lắk",
+        "availabelFormat": ["2D Eng&Viet Sub"],
+        "data": [
+          [
+            {
+              "siteName": "CGV Buôn Mê Thuột",
+              "siteType": ["Rạp 2D"],
+              "showTime": [
+                ["10:20 AM", "12:40 PM", "13:40 PM", "15:00 PM", "17:20 PM", "18:20 PM", "19:30 PM", "20:30 PM"]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "province": "Trà Vinh",
+        "availabelFormat": ["2D Eng&Viet Sub"],
+        "data": [
+          [{ "siteName": "CGV Vincom Trà Vinh", "siteType": ["Rạp 2D"], "showTime": [["12:40 PM", "20:50 PM"]] }]
+        ]
+      },
+      {
+        "province": "Yên Bái",
+        "availabelFormat": ["2D Eng&Viet Sub"],
+        "data": [
+          [
+            {
+              "siteName": "CGV Vincom Yên Bái",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["13:10 PM", "17:00 PM", "18:40 PM", "21:00 PM"]]
+            }
+          ]
+        ]
+      },
+      {
+        "province": "Vĩnh Long",
+        "availabelFormat": ["2D Eng&Viet Sub"],
+        "data": [
+          [{ "siteName": "CGV Vincom Vĩnh Long", "siteType": ["Rạp 2D"], "showTime": [["09:30 AM", "21:20 PM"]] }]
+        ]
+      },
+      {
+        "province": "Kiên Giang",
+        "availabelFormat": ["2D Eng&Viet Sub"],
+        "data": [
+          [
+            {
+              "siteName": "CGV Vincom Rạch Giá",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["10:10 AM", "14:00 PM", "19:00 PM", "20:40 PM"]]
+            }
+          ]
+        ]
+      },
+      {
+        "province": "Hậu Giang",
+        "availabelFormat": ["2D Eng&Viet Sub"],
+        "data": [[{ "siteName": "CGV Vincom Vị Thanh", "siteType": ["Rạp 2D"], "showTime": [["09:00 AM"]] }]]
+      },
+      {
+        "province": "Hà Tĩnh",
+        "availabelFormat": ["2D Eng&Viet Sub"],
+        "data": [
+          [
+            {
+              "siteName": "CGV Vincom Hà Tĩnh",
+              "siteType": ["Rạp 2D"],
+              "showTime": [
+                [
+                  "10:00 AM",
+                  "11:00 AM",
+                  "12:00 PM",
+                  "13:15 PM",
+                  "14:15 PM",
+                  "14:50 PM",
+                  "15:30 PM",
+                  "16:45 PM",
+                  "17:40 PM",
+                  "19:00 PM",
+                  "19:50 PM",
+                  "20:30 PM",
+                  "21:10 PM"
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "province": "Phú Yên",
+        "availabelFormat": ["2D Eng&Viet Sub"],
+        "data": [
+          [
+            {
+              "siteName": "CGV Vincom Phú Yên",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["09:50 AM", "11:30 AM", "13:40 PM", "18:30 PM", "20:40 PM"]]
+            }
+          ]
+        ]
+      },
+      {
+        "province": "Đồng Tháp",
+        "availabelFormat": ["2D Eng&Viet Sub"],
+        "data": [[{ "siteName": "CGV Vincom Cao Lãnh", "siteType": ["Rạp 2D"], "showTime": [["20:30 PM"]] }]]
+      },
+      {
+        "province": "Khánh Hòa",
+        "availabelFormat": ["2D Eng&Viet Sub"],
+        "data": [
+          [
+            {
+              "siteName": "CGV Big C Nha Trang",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["11:20 AM", "14:00 PM", "15:00 PM", "17:50 PM", "20:00 PM", "21:10 PM"]]
+            }
+          ]
+        ]
+      },
+      {
+        "province": "Kon Tum",
+        "availabelFormat": ["2D Eng&Viet Sub"],
+        "data": [
+          [
+            {
+              "siteName": "CGV Vincom Kon Tum",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["10:30 AM", "12:50 PM", "15:10 PM", "20:00 PM"]]
+            }
+          ]
+        ]
+      },
+      {
+        "province": "Lạng Sơn",
+        "availabelFormat": ["2D Eng&Viet Sub"],
+        "data": [
+          [
+            {
+              "siteName": "CGV Vincom Lạng Sơn",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["11:45 AM", "15:00 PM", "17:00 PM", "20:00 PM", "21:15 PM"]]
+            }
+          ]
+        ]
+      },
+      {
+        "province": "Nghệ An",
+        "availabelFormat": ["2D Eng&Viet Sub"],
+        "data": [
+          [
+            {
+              "siteName": "CGV Vinh Centre",
+              "siteType": ["Rạp 2D"],
+              "showTime": [
+                [
+                  "10:30 AM",
+                  "11:20 AM",
+                  "12:50 PM",
+                  "13:40 PM",
+                  "15:00 PM",
+                  "16:00 PM",
+                  "17:15 PM",
+                  "18:10 PM",
+                  "19:10 PM",
+                  "20:20 PM",
+                  "21:00 PM"
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "province": "Quảng Ngãi",
+        "availabelFormat": ["2D Eng&Viet Sub"],
+        "data": [
+          [
+            {
+              "siteName": "CGV Vincom Quảng Ngãi",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["09:50 AM", "11:15 AM", "14:10 PM", "18:30 PM", "21:00 PM"]]
+            }
+          ]
+        ]
+      },
+      {
+        "province": "Sóc Trăng",
+        "availabelFormat": ["2D Eng&Viet Sub"],
+        "data": [[{ "siteName": "CGV Vincom Sóc Trăng", "siteType": ["Rạp 2D"], "showTime": [["20:45 PM"]] }]]
+      },
+      {
+        "province": "Sơn La",
+        "availabelFormat": ["2D Eng&Viet Sub"],
+        "data": [
+          [
+            {
+              "siteName": "CGV Vincom Sơn La",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["13:30 PM", "15:45 PM", "17:10 PM", "19:20 PM", "21:30 PM"]]
+            }
+          ]
+        ]
+      },
+      {
+        "province": "Tây Ninh",
+        "availabelFormat": ["2D Eng&Viet Sub"],
+        "data": [
+          [{ "siteName": "CGV Vincom Tây Ninh", "siteType": ["Rạp 2D"], "showTime": [["16:30 PM", "20:40 PM"]] }]
+        ]
+      },
+      {
+        "province": "Thái Nguyên",
+        "availabelFormat": ["2D Eng&Viet Sub"],
+        "data": [
+          [
+            {
+              "siteName": "CGV Vincom Thái Nguyên",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["09:40 AM", "11:30 AM", "13:45 PM", "16:00 PM", "17:45 PM", "20:00 PM", "22:15 PM"]]
+            }
+          ]
+        ]
+      },
+      {
+        "province": "Tiền Giang",
+        "availabelFormat": ["2D Eng&Viet Sub"],
+        "data": [
+          [{ "siteName": "CGV GO! Mỹ Tho", "siteType": ["Rạp 2D"], "showTime": [["10:20 AM", "13:20 PM", "15:30 PM"]] }]
+        ]
+      }
+    ]
+  },
+  {
+    "images": "https://www.cgv.vn/media/catalog/product/cache/1/image/c5f0a1eff4c394a251036189ccddaacd/8/0/800x1200-dckscr_1_.jpg",
+    "title": "DÂN CHƠI KHÔNG SỢ CON RƠI",
+    "director": "Huỳnh Đông",
+    "actor": "Tiến Luật, bé Bảo Thi, Huỳnh Phương, Nguyên Thảo, Vân Trang, Ngô Kiến Huy, Lê Khánh,...",
+    "genre": "Hài, Tâm Lý",
+    "release": "29/07/2022",
+    "runtime": "88 phút",
+    "language": "Tiếng Việt - Phụ đề Tiếng Anh",
+    "rating": "C13 - Phim cấm khán giả dưới 13 tuổi",
+    "technology": [],
+    "description": "Quân, một dân chơi miệt vườn với tài “sát gái” thượng hạng, bỗng một ngày phải gánh lấy \"cục nợ con rơi\" từ bạn gái cũ. Được sự trợ giúp \"ba phần đắc lực bảy phần phá đám\" của Tám Mánh, Quân dần mất hết hy vọng tìm lại mẹ cho đứa bé và dần trở thành người cha hoàn hảo trong mắt Bé Thỏ. \nCuộc sống đầy sắc màu và tiếng cười của hai cha con bị đặt trước thử thách lớn lao khi người mẹ mà Bé Thỏ ngày đêm mong ngóng cuối cùng cũng xuất hiện…",
+    "trailerEmbed": "www.youtube.com/embed/34OJjBVw3do?rel=0&showinfo=0",
+    "youtubeID": "34OJjBVw3do",
+    "lichChieu": [
+      {
+        "province": "Hồ Chí Minh",
+        "availabelFormat": ["2D Phụ Đề Anh"],
+        "data": [
+          [
+            {
+              "siteName": "CGV Hùng Vương Plaza",
+              "siteType": ["Rạp 2D"],
+              "showTime": [
+                [
+                  "08:50 AM",
+                  "12:10 PM",
+                  "12:50 PM",
+                  "13:40 PM",
+                  "14:50 PM",
+                  "16:25 PM",
+                  "18:20 PM",
+                  "21:10 PM",
+                  "23:10 PM"
+                ]
+              ]
+            },
+            {
+              "siteName": "CGV Sư Vạn Hạnh",
+              "siteType": ["Rạp 2D", "Rạp STARIUM"],
+              "showTime": [
+                [
+                  "09:00 AM",
+                  "09:30 AM",
+                  "11:20 AM",
+                  "13:20 PM",
+                  "15:10 PM",
+                  "17:10 PM",
+                  "18:00 PM",
+                  "19:50 PM",
+                  "20:40 PM",
+                  "21:30 PM",
+                  "22:25 PM"
+                ],
+                ["18:30 PM"]
+              ]
+            },
+            {
+              "siteName": "CGV Pandora City",
+              "siteType": ["Rạp 2D"],
+              "showTime": [
+                [
+                  "09:20 AM",
+                  "10:40 AM",
+                  "11:20 AM",
+                  "12:40 PM",
+                  "13:20 PM",
+                  "14:30 PM",
+                  "15:20 PM",
+                  "16:30 PM",
+                  "17:20 PM",
+                  "18:30 PM",
+                  "19:20 PM",
+                  "20:30 PM",
+                  "21:20 PM"
+                ]
+              ]
+            },
+            {
+              "siteName": "CGV Vincom Thủ Đức",
+              "siteType": ["Rạp 2D", "Rạp STARIUM"],
+              "showTime": [
+                [
+                  "09:30 AM",
+                  "10:45 AM",
+                  "11:15 AM",
+                  "12:45 PM",
+                  "13:20 PM",
+                  "14:50 PM",
+                  "15:20 PM",
+                  "16:50 PM",
+                  "17:20 PM",
+                  "19:20 PM",
+                  "20:40 PM",
+                  "21:20 PM",
+                  "22:40 PM"
+                ],
+                ["22:10 PM"]
+              ]
+            },
+            {
+              "siteName": "CGV Aeon Tân Phú",
+              "siteType": ["Rạp 2D"],
+              "showTime": [
+                [
+                  "09:30 AM",
+                  "10:10 AM",
+                  "11:30 AM",
+                  "13:30 PM",
+                  "14:50 PM",
+                  "15:30 PM",
+                  "16:10 PM",
+                  "17:30 PM",
+                  "18:10 PM",
+                  "18:50 PM",
+                  "19:30 PM",
+                  "20:10 PM",
+                  "21:30 PM",
+                  "22:10 PM",
+                  "22:40 PM"
+                ]
+              ]
+            },
+            {
+              "siteName": "CGV Aeon Bình Tân",
+              "siteType": ["Rạp 2D"],
+              "showTime": [
+                [
+                  "09:30 AM",
+                  "10:20 AM",
+                  "11:20 AM",
+                  "12:10 PM",
+                  "14:00 PM",
+                  "15:50 PM",
+                  "17:40 PM",
+                  "19:40 PM",
+                  "20:30 PM",
+                  "21:30 PM",
+                  "22:20 PM"
+                ]
+              ]
+            },
+            {
+              "siteName": "CGV Satra Củ Chi",
+              "siteType": ["Rạp 2D"],
+              "showTime": [
+                [
+                  "09:30 AM",
+                  "10:30 AM",
+                  "11:15 AM",
+                  "12:15 PM",
+                  "13:00 PM",
+                  "14:00 PM",
+                  "14:50 PM",
+                  "15:50 PM",
+                  "16:35 PM",
+                  "17:35 PM",
+                  "17:50 PM",
+                  "18:20 PM",
+                  "19:00 PM",
+                  "19:20 PM",
+                  "20:10 PM",
+                  "20:50 PM",
+                  "21:10 PM"
+                ]
+              ]
+            },
+            {
+              "siteName": "CGV Giga Mall Thủ Đức",
+              "siteType": ["Rạp 2D"],
+              "showTime": [
+                [
+                  "09:45 AM",
+                  "10:05 AM",
+                  "10:50 AM",
+                  "12:00 PM",
+                  "12:50 PM",
+                  "13:30 PM",
+                  "14:00 PM",
+                  "14:50 PM",
+                  "15:10 PM",
+                  "15:30 PM",
+                  "16:00 PM",
+                  "16:50 PM",
+                  "17:10 PM",
+                  "17:30 PM",
+                  "18:45 PM",
+                  "19:10 PM",
+                  "20:45 PM",
+                  "21:10 PM",
+                  "21:30 PM",
+                  "22:05 PM",
+                  "22:45 PM"
+                ]
+              ]
+            },
+            {
+              "siteName": "CGV Pearl Plaza",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["09:50 AM", "15:15 PM", "17:15 PM", "19:10 PM", "23:15 PM"]]
+            },
+            {
+              "siteName": "CGV Parkson Đồng Khởi",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["10:00 AM", "12:50 PM", "14:40 PM", "16:30 PM", "20:10 PM", "23:25 PM"]]
+            },
+            {
+              "siteName": "CGV Vincom Center Landmark 81",
+              "siteType": ["Rạp 2D"],
+              "showTime": [
+                ["10:00 AM", "13:00 PM", "14:00 PM", "17:00 PM", "19:10 PM", "20:20 PM", "21:20 PM", "22:20 PM"]
+              ]
+            },
+            {
+              "siteName": "CGV Vincom Đồng Khởi",
+              "siteType": ["Rạp 2D", "Rạp GOLD CLASS"],
+              "showTime": [["10:10 AM"], ["23:50 PM"]]
+            },
+            {
+              "siteName": "CGV Thảo Điền Pearl",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["10:10 AM", "12:35 PM", "18:35 PM"]]
+            },
+            {
+              "siteName": "CGV Vivo City",
+              "siteType": ["Rạp Cine & Suite", "Rạp 2D"],
+              "showTime": [["10:15 AM"], ["22:00 PM"]]
+            },
+            {
+              "siteName": "CGV Trường Sơn (CGV CT Plaza)",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["10:20 AM", "13:10 PM", "15:00 PM", "16:50 PM", "20:20 PM", "21:45 PM"]]
+            },
+            {
+              "siteName": "CGV Lý Chính Thắng",
+              "siteType": ["Rạp 2D"],
+              "showTime": [
+                ["10:40 AM", "12:30 PM", "14:20 PM", "16:10 PM", "18:10 PM", "20:00 PM", "21:45 PM", "22:40 PM"]
+              ]
+            },
+            {
+              "siteName": "CGV Vincom Gò Vấp",
+              "siteType": ["Rạp 2D"],
+              "showTime": [
+                [
+                  "10:45 AM",
+                  "11:45 AM",
+                  "12:45 PM",
+                  "13:45 PM",
+                  "14:45 PM",
+                  "15:45 PM",
+                  "16:45 PM",
+                  "17:45 PM",
+                  "18:20 PM",
+                  "19:45 PM",
+                  "20:45 PM",
+                  "21:15 PM",
+                  "21:45 PM"
+                ]
+              ]
+            },
+            {
+              "siteName": "CGV Crescent Mall",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["11:45 AM", "14:30 PM", "15:40 PM", "20:30 PM", "21:20 PM", "22:30 PM"]]
+            },
+            {
+              "siteName": "CGV Liberty Citypoint",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["12:40 PM", "16:40 PM", "20:40 PM", "22:30 PM"]]
+            },
+            {
+              "siteName": "CGV Saigonres Nguyễn Xí",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["12:50 PM", "17:00 PM", "21:15 PM"]]
+            }
+          ]
+        ]
+      },
+      {
+        "province": "Hà Nội",
+        "availabelFormat": ["2D Phụ Đề Anh"],
+        "data": [
+          [
+            { "siteName": "CGV Vincom Sky Lake Phạm Hùng", "siteType": ["Rạp 2D"], "showTime": [["09:50 AM"]] },
+            { "siteName": "CGV Rice City", "siteType": ["Rạp 2D"], "showTime": [["10:00 AM", "15:30 PM", "18:10 PM"]] },
+            {
+              "siteName": "CGV Vincom Times City",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["10:10 AM", "12:00 PM", "22:25 PM"]]
+            },
+            {
+              "siteName": "CGV Mac Plaza (Machinco)",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["10:10 AM", "13:25 PM", "20:30 PM", "22:15 PM"]]
+            },
+            {
+              "siteName": "CGV Vincom Royal City",
+              "siteType": ["Rạp 2D", "Rạp Lamour"],
+              "showTime": [["10:15 AM", "22:45 PM"], ["16:50 PM"]]
+            },
+            {
+              "siteName": "CGV Vincom Center Bà Triệu",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["10:30 AM", "12:40 PM", "23:05 PM"]]
+            },
+            {
+              "siteName": "CGV Indochina Plaza Hà Nội",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["10:45 AM", "17:30 PM"]]
+            },
+            {
+              "siteName": "CGV Aeon Long Biên",
+              "siteType": ["Rạp SCREENX", "Rạp 2D"],
+              "showTime": [["11:25 AM"], ["14:10 PM", "20:15 PM"]]
+            },
+            { "siteName": "CGV Sun Grand Lương Yên", "siteType": ["Rạp 2D"], "showTime": [["12:05 PM", "22:00 PM"]] },
+            {
+              "siteName": "CGV Vincom Ocean Park",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["12:45 PM", "18:50 PM", "22:45 PM"]]
+            },
+            {
+              "siteName": "CGV Aeon Hà Đông",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["13:00 PM", "14:55 PM", "17:20 PM", "19:20 PM"]]
+            },
+            {
+              "siteName": "CGV Vincom Metropolis Liễu Giai",
+              "siteType": ["Rạp 2D", "Rạp Lamour"],
+              "showTime": [["13:00 PM"], ["15:20 PM"]]
+            },
+            { "siteName": "CGV Vincom Trần Duy Hưng", "siteType": ["Rạp 2D"], "showTime": [["13:15 PM"]] },
+            {
+              "siteName": "CGV Trương Định Plaza",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["13:30 PM", "16:45 PM", "20:05 PM"]]
+            },
+            {
+              "siteName": "CGV Vincom Nguyễn Chí Thanh",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["13:35 PM", "18:00 PM"]]
+            },
+            {
+              "siteName": "CGV Vincom Long Biên",
+              "siteType": ["Rạp GOLD CLASS"],
+              "showTime": [["13:45 PM", "21:55 PM"]]
+            },
+            { "siteName": "CGV Xuân Diệu", "siteType": ["Rạp 2D"], "showTime": [["14:00 PM", "18:35 PM", "23:10 PM"]] },
+            {
+              "siteName": "CGV Tràng Tiền Plaza",
+              "siteType": ["Rạp GOLD CLASS", "Rạp 2D"],
+              "showTime": [["14:15 PM"], ["22:05 PM"]]
+            },
+            { "siteName": "CGV Sun Grand Thụy Khuê", "siteType": ["Rạp 2D"], "showTime": [["15:45 PM"]] },
+            { "siteName": "CGV Vincom Bắc Từ Liêm", "siteType": ["Rạp 2D"], "showTime": [["16:45 PM"]] },
+            { "siteName": "CGV Mipec Tower", "siteType": ["Rạp 2D"], "showTime": [["20:00 PM", "22:00 PM"]] },
+            { "siteName": "CGV Hà Nội Centerpoint", "siteType": ["Rạp 2D"], "showTime": [["22:25 PM"]] },
+            { "siteName": "CGV Hồ Gươm Plaza", "siteType": ["Rạp 2D"], "showTime": [["22:50 PM"]] }
+          ]
+        ]
+      },
+      {
+        "province": "Đà Nẵng",
+        "availabelFormat": ["2D Phụ Đề Anh"],
+        "data": [
+          [
+            {
+              "siteName": "CGV Vĩnh Trung Plaza",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["09:20 AM", "11:20 AM", "14:50 PM", "16:50 PM", "17:30 PM", "19:20 PM", "21:10 PM"]]
+            },
+            {
+              "siteName": "CGV Vincom Đà Nẵng",
+              "siteType": ["Rạp 2D"],
+              "showTime": [
+                ["09:40 AM", "10:40 AM", "12:40 PM", "14:30 PM", "15:50 PM", "16:40 PM", "19:15 PM", "21:10 PM"]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "province": "Cần Thơ",
+        "availabelFormat": ["2D Phụ Đề Anh"],
+        "data": [
+          [
+            {
+              "siteName": "CGV Sense City",
+              "siteType": ["Rạp 2D"],
+              "showTime": [
+                [
+                  "09:00 AM",
+                  "10:00 AM",
+                  "11:00 AM",
+                  "12:00 PM",
+                  "12:40 PM",
+                  "13:40 PM",
+                  "14:10 PM",
+                  "14:40 PM",
+                  "15:30 PM",
+                  "16:00 PM",
+                  "18:00 PM",
+                  "19:20 PM",
+                  "20:00 PM",
+                  "21:10 PM",
+                  "21:50 PM",
+                  "22:40 PM"
+                ]
+              ]
+            },
+            {
+              "siteName": "CGV Vincom Xuân Khánh",
+              "siteType": ["Rạp 2D", "Rạp GOLD CLASS"],
+              "showTime": [
+                [
+                  "09:50 AM",
+                  "11:50 AM",
+                  "13:20 PM",
+                  "15:15 PM",
+                  "17:10 PM",
+                  "18:30 PM",
+                  "20:30 PM",
+                  "21:10 PM",
+                  "21:50 PM",
+                  "23:00 PM"
+                ],
+                ["10:50 AM"]
+              ]
+            },
+            {
+              "siteName": "CGV Vincom Hùng Vương",
+              "siteType": ["Rạp 2D", "Rạp SWEETBOX"],
+              "showTime": [["10:30 AM", "14:10 PM", "17:40 PM", "19:30 PM", "20:20 PM", "21:15 PM"], ["22:15 PM"]]
+            }
+          ]
+        ]
+      },
+      {
+        "province": "Đồng Nai",
+        "availabelFormat": ["2D Phụ Đề Anh"],
+        "data": [
+          [
+            {
+              "siteName": "CGV Big C Đồng Nai",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["09:40 AM", "12:40 PM", "15:30 PM", "17:40 PM", "19:30 PM", "21:20 PM", "22:10 PM"]]
+            },
+            {
+              "siteName": "CGV Coopmart Biên Hòa",
+              "siteType": ["Rạp 2D"],
+              "showTime": [
+                [
+                  "10:00 AM",
+                  "11:00 AM",
+                  "12:10 PM",
+                  "14:10 PM",
+                  "15:00 PM",
+                  "16:10 PM",
+                  "19:10 PM",
+                  "20:00 PM",
+                  "21:20 PM",
+                  "22:10 PM"
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "province": "Hải Phòng",
+        "availabelFormat": ["2D Phụ Đề Anh"],
+        "data": [
+          [
+            {
+              "siteName": "CGV Vincom Hải Phòng",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["09:50 AM", "20:10 PM", "22:00 PM"]]
+            },
+            {
+              "siteName": "CGV Aeon Mall Hải Phòng",
+              "siteType": ["Rạp Cine & Forest", "Rạp 2D"],
+              "showTime": [["10:55 AM"], ["13:50 PM", "15:50 PM", "20:10 PM"]]
+            }
+          ]
+        ]
+      },
+      {
+        "province": "Quảng Ninh",
+        "availabelFormat": ["2D Phụ Đề Anh"],
+        "data": [
+          [
+            {
+              "siteName": "CGV Vincom Móng Cái",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["10:05 AM", "18:20 PM", "22:15 PM"]]
+            },
+            {
+              "siteName": "CGV Vincom Cẩm Phả",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["13:30 PM", "16:10 PM", "17:55 PM"]]
+            },
+            { "siteName": "CGV Vincom Hạ Long", "siteType": ["Rạp 2D"], "showTime": [["13:35 PM", "15:55 PM"]] }
+          ]
+        ]
+      },
+      {
+        "province": "Bà Rịa-Vũng Tàu",
+        "availabelFormat": ["2D Phụ Đề Anh"],
+        "data": [
+          [
+            {
+              "siteName": "CGV Lam Sơn Square",
+              "siteType": ["Rạp 2D"],
+              "showTime": [
+                [
+                  "09:35 AM",
+                  "10:40 AM",
+                  "11:30 AM",
+                  "12:40 PM",
+                  "13:25 PM",
+                  "14:35 PM",
+                  "15:20 PM",
+                  "16:30 PM",
+                  "17:15 PM",
+                  "18:25 PM",
+                  "19:10 PM",
+                  "20:20 PM",
+                  "21:05 PM",
+                  "22:10 PM"
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "province": "Bình Định",
+        "availabelFormat": ["2D Phụ Đề Anh"],
+        "data": [
+          [
+            {
+              "siteName": "CGV Kim Cúc Plaza",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["10:00 AM", "13:40 PM", "14:40 PM", "16:10 PM", "17:40 PM", "19:00 PM", "20:50 PM"]]
+            }
+          ]
+        ]
+      },
+      {
+        "province": "Bình Dương",
+        "availabelFormat": ["2D Phụ Đề Anh"],
+        "data": [
+          [
+            {
+              "siteName": "CGV Bình Dương Square",
+              "siteType": ["Rạp 2D"],
+              "showTime": [
+                [
+                  "09:00 AM",
+                  "10:00 AM",
+                  "10:30 AM",
+                  "11:00 AM",
+                  "12:00 PM",
+                  "13:00 PM",
+                  "14:00 PM",
+                  "15:00 PM",
+                  "16:00 PM",
+                  "17:00 PM",
+                  "18:00 PM",
+                  "19:00 PM",
+                  "19:30 PM",
+                  "20:00 PM",
+                  "20:30 PM",
+                  "21:00 PM",
+                  "21:30 PM",
+                  "22:00 PM",
+                  "22:20 PM"
+                ]
+              ]
+            },
+            {
+              "siteName": "CGV Aeon Canary",
+              "siteType": ["Rạp 2D"],
+              "showTime": [
+                [
+                  "09:20 AM",
+                  "10:20 AM",
+                  "11:20 AM",
+                  "12:20 PM",
+                  "13:20 PM",
+                  "14:20 PM",
+                  "15:20 PM",
+                  "16:20 PM",
+                  "17:20 PM",
+                  "18:20 PM",
+                  "19:20 PM",
+                  "20:20 PM",
+                  "20:50 PM",
+                  "21:20 PM",
+                  "22:20 PM"
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "province": "Đắk Lắk",
+        "availabelFormat": ["2D Phụ Đề Anh"],
+        "data": [
+          [
+            {
+              "siteName": "CGV Buôn Mê Thuột",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["09:50 AM", "12:00 PM", "16:10 PM", "18:00 PM", "20:00 PM", "21:10 PM"]]
+            }
+          ]
+        ]
+      },
+      {
+        "province": "Trà Vinh",
+        "availabelFormat": ["2D Phụ Đề Anh"],
+        "data": [
+          [
+            {
+              "siteName": "CGV Vincom Trà Vinh",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["09:30 AM", "13:30 PM", "15:00 PM", "17:30 PM", "19:00 PM", "20:20 PM", "21:30 PM"]]
+            }
+          ]
+        ]
+      },
+      {
+        "province": "Yên Bái",
+        "availabelFormat": ["2D Phụ Đề Anh"],
+        "data": [[{ "siteName": "CGV Vincom Yên Bái", "siteType": ["Rạp 2D"], "showTime": [["16:20 PM", "21:40 PM"]] }]]
+      },
+      {
+        "province": "Vĩnh Long",
+        "availabelFormat": ["2D Phụ Đề Anh"],
+        "data": [
+          [
+            {
+              "siteName": "CGV Vincom Vĩnh Long",
+              "siteType": ["Rạp 2D"],
+              "showTime": [
+                [
+                  "10:00 AM",
+                  "11:50 AM",
+                  "13:10 PM",
+                  "15:00 PM",
+                  "16:00 PM",
+                  "16:50 PM",
+                  "18:40 PM",
+                  "19:30 PM",
+                  "20:15 PM"
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "province": "Kiên Giang",
+        "availabelFormat": ["2D Phụ Đề Anh"],
+        "data": [
+          [
+            {
+              "siteName": "CGV Vincom Rạch Giá",
+              "siteType": ["Rạp 2D"],
+              "showTime": [
+                [
+                  "09:50 AM",
+                  "11:50 AM",
+                  "12:30 PM",
+                  "13:50 PM",
+                  "14:30 PM",
+                  "15:50 PM",
+                  "16:30 PM",
+                  "17:50 PM",
+                  "19:40 PM",
+                  "20:30 PM",
+                  "21:00 PM",
+                  "21:30 PM"
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "province": "Hậu Giang",
+        "availabelFormat": ["2D Phụ Đề Anh"],
+        "data": [
+          [
+            {
+              "siteName": "CGV Vincom Vị Thanh",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["10:10 AM", "12:10 PM", "13:40 PM", "15:30 PM", "16:30 PM", "20:40 PM"]]
+            }
+          ]
+        ]
+      },
+      {
+        "province": "Hà Tĩnh",
+        "availabelFormat": ["2D Phụ Đề Anh"],
+        "data": [[{ "siteName": "CGV Vincom Hà Tĩnh", "siteType": ["Rạp 2D"], "showTime": [["12:40 PM", "21:30 PM"]] }]]
+      },
+      {
+        "province": "Phú Yên",
+        "availabelFormat": ["2D Phụ Đề Anh"],
+        "data": [
+          [
+            {
+              "siteName": "CGV Vincom Phú Yên",
+              "siteType": ["Rạp 2D"],
+              "showTime": [
+                ["09:40 AM", "11:40 AM", "13:25 PM", "15:10 PM", "18:20 PM", "19:10 PM", "20:10 PM", "21:00 PM"]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "province": "Đồng Tháp",
+        "availabelFormat": ["2D Phụ Đề Anh"],
+        "data": [
+          [
+            {
+              "siteName": "CGV Vincom Cao Lãnh",
+              "siteType": ["Rạp 2D"],
+              "showTime": [
+                [
+                  "09:50 AM",
+                  "10:40 AM",
+                  "11:40 AM",
+                  "12:30 PM",
+                  "13:30 PM",
+                  "14:20 PM",
+                  "15:20 PM",
+                  "16:10 PM",
+                  "17:10 PM",
+                  "18:00 PM",
+                  "19:00 PM",
+                  "19:50 PM",
+                  "20:45 PM",
+                  "21:40 PM",
+                  "22:30 PM"
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "province": "Khánh Hòa",
+        "availabelFormat": ["2D Phụ Đề Anh"],
+        "data": [
+          [
+            {
+              "siteName": "CGV Big C Nha Trang",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["09:30 AM", "10:50 AM", "13:30 PM", "16:30 PM", "17:15 PM", "19:40 PM", "20:30 PM"]]
+            }
+          ]
+        ]
+      },
+      {
+        "province": "Kon Tum",
+        "availabelFormat": ["2D Phụ Đề Anh"],
+        "data": [[{ "siteName": "CGV Vincom Kon Tum", "siteType": ["Rạp 2D"], "showTime": [["12:00 PM", "18:10 PM"]] }]]
+      },
+      {
+        "province": "Lạng Sơn",
+        "availabelFormat": ["2D Phụ Đề Anh"],
+        "data": [[{ "siteName": "CGV Vincom Lạng Sơn", "siteType": ["Rạp 2D"], "showTime": [["13:00 PM"]] }]]
+      },
+      {
+        "province": "Nghệ An",
+        "availabelFormat": ["2D Phụ Đề Anh"],
+        "data": [
+          [
+            {
+              "siteName": "CGV Vinh Centre",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["10:15 AM", "13:10 PM", "21:20 PM"]]
+            }
+          ]
+        ]
+      },
+      {
+        "province": "Quảng Ngãi",
+        "availabelFormat": ["2D Phụ Đề Anh"],
+        "data": [
+          [
+            {
+              "siteName": "CGV Vincom Quảng Ngãi",
+              "siteType": ["Rạp 2D"],
+              "showTime": [
+                ["09:30 AM", "10:50 AM", "12:00 PM", "12:40 PM", "16:40 PM", "19:30 PM", "20:40 PM", "21:15 PM"]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "province": "Sóc Trăng",
+        "availabelFormat": ["2D Phụ Đề Anh"],
+        "data": [
+          [
+            {
+              "siteName": "CGV Vincom Sóc Trăng",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["09:50 AM", "11:50 AM", "13:10 PM", "16:30 PM", "19:30 PM", "21:30 PM"]]
+            }
+          ]
+        ]
+      },
+      {
+        "province": "Sơn La",
+        "availabelFormat": ["2D Phụ Đề Anh"],
+        "data": [[{ "siteName": "CGV Vincom Sơn La", "siteType": ["Rạp 2D"], "showTime": [["18:00 PM"]] }]]
+      },
+      {
+        "province": "Tây Ninh",
+        "availabelFormat": ["2D Phụ Đề Anh"],
+        "data": [
+          [
+            {
+              "siteName": "CGV Vincom Tây Ninh",
+              "siteType": ["Rạp 2D"],
+              "showTime": [
+                ["10:00 AM", "12:00 PM", "12:50 PM", "14:00 PM", "18:00 PM", "18:45 PM", "19:50 PM", "21:40 PM"]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "province": "Thái Nguyên",
+        "availabelFormat": ["2D Phụ Đề Anh"],
+        "data": [
+          [
+            {
+              "siteName": "CGV Vincom Thái Nguyên",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["13:50 PM", "20:30 PM", "22:20 PM"]]
+            }
+          ]
+        ]
+      },
+      {
+        "province": "Tiền Giang",
+        "availabelFormat": ["2D Phụ Đề Anh"],
+        "data": [
+          [
+            {
+              "siteName": "CGV GO! Mỹ Tho",
+              "siteType": ["Rạp 2D"],
+              "showTime": [
+                [
+                  "09:50 AM",
+                  "11:15 AM",
+                  "12:30 PM",
+                  "13:00 PM",
+                  "14:45 PM",
+                  "15:40 PM",
+                  "16:30 PM",
+                  "17:30 PM",
+                  "18:15 PM",
+                  "19:15 PM",
+                  "20:00 PM",
+                  "21:30 PM"
+                ]
+              ]
+            }
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "images": "https://www.cgv.vn/media/catalog/product/cache/1/image/c5f0a1eff4c394a251036189ccddaacd/p/o/poster_700_x_1000_px.jpg",
+    "title": "CHUYỆN MA GIẢNG ĐƯỜNG – HỌC KỲ 2",
+    "director": "Pataraporn Weerasakwong , Jatupong Rungruangdechapat, Ekapon Sethasuk",
+    "actor": "Krit Jirapattananuwong, Kemisra Poladej, Panisra Rikulsurakarn, Teeradon “James” Supanpinyo,...",
+    "genre": "Kinh Dị",
+    "release": "29/07/2022",
+    "runtime": "126 phút",
+    "language": "Tiếng Thái - Phụ đề tiếng Việt/ tiếng Anh",
+    "rating": "C16 - Phim cấm khán giả dưới 16 tuổi",
+    "technology": [],
+    "description": "Đến từ đạo diễn của Girl From Nowhere (tựa Việt: Cô Gái Đến Từ Hư Vô), Haunted Universities Second Semester (tựa Việt: Chuyện Ma Giảng Đường – Học Kỳ 2) là bộ phim dựa trên mạch truyện kinh dị lấy bối cảnh trong khuôn viên trường đại học, đề cập đến những rắc rối và nỗi bức xúc mà thanh thiếu niên cũng như thế hệ trẻ đang trải qua trong quá trình chuyển đổi.\nLấy ý tưởng về “những bóng ma trong trường đại học”, bộ phim được xây dựng kịch bản từ 3 trong số những câu chuyện ma rùng rợn nhất có thật tại các trường đại học bị ma ám với cách kể chuyện mới lạ nhưng vẫn duy trì được tất cả các yếu tố kinh dị khiến Haunted Universities Second Semester (tựa Việt: Chuyện Ma Giảng Đường – Học Kỳ 2) trở nên rùng rợn theo cách riêng, vượt ra khỏi khuôn khổ của một câu chuyện ma quen thuộc với cách lột tả nội dung chân thực nhất liên quan sâu sắc đến xã hội ngày nay.",
+    "trailerEmbed": "www.youtube.com/embed/7Q72BKYxYVg?rel=0&showinfo=0",
+    "youtubeID": "7Q72BKYxYVg",
+    "lichChieu": [
+      {
+        "province": "Hồ Chí Minh",
+        "availabelFormat": ["2D Eng&Viet Sub"],
+        "data": [
+          [
+            {
+              "siteName": "CGV Aeon Tân Phú",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["09:50 AM", "15:10 PM", "20:30 PM"]]
+            },
+            { "siteName": "CGV Vincom Gò Vấp", "siteType": ["Rạp 2D"], "showTime": [["10:00 AM"]] },
+            {
+              "siteName": "CGV Vivo City",
+              "siteType": ["Rạp 2D", "Rạp Cine & Suite"],
+              "showTime": [["10:30 AM"], ["21:15 PM"]]
+            },
+            {
+              "siteName": "CGV Hùng Vương Plaza",
+              "siteType": ["Rạp 2D", "Rạp SCREENX"],
+              "showTime": [["11:00 AM", "18:40 PM", "22:40 PM"], ["21:50 PM"]]
+            },
+            {
+              "siteName": "CGV Pearl Plaza",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["11:25 AM", "19:20 PM", "21:55 PM"]]
+            },
+            {
+              "siteName": "CGV Pandora City",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["11:30 AM", "13:00 PM", "15:30 PM", "18:10 PM", "21:00 PM"]]
+            },
+            {
+              "siteName": "CGV Lý Chính Thắng",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["11:30 AM", "14:00 PM", "16:50 PM", "19:20 PM", "22:00 PM"]]
+            },
+            { "siteName": "CGV Crescent Mall", "siteType": ["Rạp 2D"], "showTime": [["11:50 AM", "21:00 PM"]] },
+            {
+              "siteName": "CGV Satra Củ Chi",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["12:00 PM", "14:30 PM", "17:10 PM", "19:40 PM"]]
+            },
+            {
+              "siteName": "CGV Giga Mall Thủ Đức",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["12:10 PM", "17:20 PM", "22:20 PM"]]
+            },
+            {
+              "siteName": "CGV Parkson Đồng Khởi",
+              "siteType": ["Rạp 2D", "Rạp Lamour"],
+              "showTime": [["12:20 PM"], ["17:50 PM"]]
+            },
+            {
+              "siteName": "CGV Vincom Đồng Khởi",
+              "siteType": ["Rạp GOLD CLASS"],
+              "showTime": [["12:30 PM", "21:10 PM"]]
+            },
+            { "siteName": "CGV Saigonres Nguyễn Xí", "siteType": ["Rạp 2D"], "showTime": [["12:40 PM", "20:00 PM"]] },
+            { "siteName": "CGV Vincom Thủ Đức", "siteType": ["Rạp 2D"], "showTime": [["12:50 PM", "18:50 PM"]] },
+            { "siteName": "CGV Thảo Điền Pearl", "siteType": ["Rạp 2D"], "showTime": [["13:05 PM", "21:50 PM"]] },
+            {
+              "siteName": "CGV Aeon Bình Tân",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["13:15 PM", "16:30 PM", "19:10 PM", "21:50 PM"]]
+            },
+            {
+              "siteName": "CGV Sư Vạn Hạnh",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["14:00 PM", "15:50 PM", "18:30 PM", "21:10 PM"]]
+            },
+            { "siteName": "CGV Liberty Citypoint", "siteType": ["Rạp 2D"], "showTime": [["14:55 PM", "20:00 PM"]] },
+            { "siteName": "CGV Trường Sơn (CGV CT Plaza)", "siteType": ["Rạp 2D"], "showTime": [["15:10 PM"]] },
+            { "siteName": "CGV Vincom Center Landmark 81", "siteType": ["Rạp 2D"], "showTime": [["22:00 PM"]] }
+          ]
+        ]
+      },
+      {
+        "province": "Hà Nội",
+        "availabelFormat": ["2D Eng&Viet Sub"],
+        "data": [
+          [
+            {
+              "siteName": "CGV Aeon Long Biên",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["09:00 AM", "16:30 PM", "22:45 PM"]]
+            },
+            {
+              "siteName": "CGV Vincom Center Bà Triệu",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["10:20 AM", "12:30 PM", "17:20 PM", "21:25 PM", "22:20 PM"]]
+            },
+            { "siteName": "CGV Aeon Hà Đông", "siteType": ["Rạp 2D"], "showTime": [["10:20 AM", "22:15 PM"]] },
+            {
+              "siteName": "CGV Hồ Gươm Plaza",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["10:45 AM", "17:15 PM", "22:30 PM"]]
+            },
+            { "siteName": "CGV Sun Grand Thụy Khuê", "siteType": ["Rạp 2D"], "showTime": [["11:00 AM"]] },
+            { "siteName": "CGV Vincom Long Biên", "siteType": ["Rạp GOLD CLASS"], "showTime": [["11:15 AM"]] },
+            {
+              "siteName": "CGV Vincom Royal City",
+              "siteType": ["Rạp Lamour"],
+              "showTime": [["11:20 AM", "14:10 PM", "18:50 PM", "21:30 PM"]]
+            },
+            { "siteName": "CGV Mipec Tower", "siteType": ["Rạp 2D"], "showTime": [["11:25 AM", "21:30 PM"]] },
+            { "siteName": "CGV Sun Grand Lương Yên", "siteType": ["Rạp 2D"], "showTime": [["11:30 AM", "21:20 PM"]] },
+            {
+              "siteName": "CGV Indochina Plaza Hà Nội",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["12:15 PM", "14:50 PM", "19:30 PM"]]
+            },
+            { "siteName": "CGV Vincom Sky Lake Phạm Hùng", "siteType": ["Rạp 2D"], "showTime": [["12:25 PM"]] },
+            { "siteName": "CGV Rice City", "siteType": ["Rạp 2D"], "showTime": [["12:45 PM", "22:20 PM"]] },
+            { "siteName": "CGV Xuân Diệu", "siteType": ["Rạp 2D"], "showTime": [["12:45 PM", "19:50 PM", "22:30 PM"]] },
+            { "siteName": "CGV Vincom Trần Duy Hưng", "siteType": ["Rạp 2D"], "showTime": [["13:30 PM"]] },
+            { "siteName": "CGV Vincom Nguyễn Chí Thanh", "siteType": ["Rạp GOLD CLASS"], "showTime": [["14:30 PM"]] },
+            {
+              "siteName": "CGV Mac Plaza (Machinco)",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["15:20 PM", "17:55 PM", "21:00 PM", "22:20 PM"]]
+            },
+            { "siteName": "CGV Tràng Tiền Plaza", "siteType": ["Rạp Lamour"], "showTime": [["15:45 PM"]] },
+            { "siteName": "CGV Hà Nội Centerpoint", "siteType": ["Rạp 2D"], "showTime": [["17:00 PM"]] },
+            { "siteName": "CGV Vincom Ocean Park", "siteType": ["Rạp 2D"], "showTime": [["17:00 PM"]] },
+            { "siteName": "CGV Vincom Times City", "siteType": ["Rạp 2D"], "showTime": [["18:40 PM", "21:15 PM"]] },
+            { "siteName": "CGV Vincom Metropolis Liễu Giai", "siteType": ["Rạp Lamour"], "showTime": [["19:30 PM"]] },
+            { "siteName": "CGV Trương Định Plaza", "siteType": ["Rạp 2D"], "showTime": [["22:00 PM"]] },
+            { "siteName": "CGV Vincom Bắc Từ Liêm", "siteType": ["Rạp 2D"], "showTime": [["22:25 PM"]] }
+          ]
+        ]
+      },
+      {
+        "province": "Đà Nẵng",
+        "availabelFormat": ["2D Eng&Viet Sub"],
+        "data": [
+          [
+            { "siteName": "CGV Vĩnh Trung Plaza", "siteType": ["Rạp 2D"], "showTime": [["10:30 AM"]] },
+            { "siteName": "CGV Vincom Đà Nẵng", "siteType": ["Rạp 2D"], "showTime": [["12:15 PM", "17:20 PM"]] }
+          ]
+        ]
+      },
+      {
+        "province": "Cần Thơ",
+        "availabelFormat": ["2D Eng&Viet Sub"],
+        "data": [
+          [
+            {
+              "siteName": "CGV Vincom Xuân Khánh",
+              "siteType": ["Rạp 2D", "Rạp GOLD CLASS"],
+              "showTime": [["10:30 AM", "11:30 AM", "14:10 PM", "16:50 PM", "20:10 PM"], ["22:10 PM"]]
+            },
+            {
+              "siteName": "CGV Vincom Hùng Vương",
+              "siteType": ["Rạp SWEETBOX", "Rạp 2D"],
+              "showTime": [["12:10 PM", "14:45 PM", "17:20 PM"], ["21:20 PM"]]
+            },
+            { "siteName": "CGV Sense City", "siteType": ["Rạp 2D"], "showTime": [["16:40 PM"]] }
+          ]
+        ]
+      },
+      {
+        "province": "Đồng Nai",
+        "availabelFormat": ["2D Eng&Viet Sub"],
+        "data": [
+          [
+            {
+              "siteName": "CGV Coopmart Biên Hòa",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["09:20 AM", "11:50 AM", "14:20 PM", "16:50 PM", "19:20 PM", "21:10 PM"]]
+            },
+            {
+              "siteName": "CGV Big C Đồng Nai",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["12:20 PM", "16:00 PM", "19:10 PM"]]
+            }
+          ]
+        ]
+      },
+      {
+        "province": "Hải Phòng",
+        "availabelFormat": ["2D Eng&Viet Sub"],
+        "data": [
+          [
+            {
+              "siteName": "CGV Vincom Hải Phòng",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["10:40 AM", "15:30 PM", "20:30 PM"]]
+            },
+            {
+              "siteName": "CGV Aeon Mall Hải Phòng",
+              "siteType": ["Rạp 2D", "Rạp Cine & Forest"],
+              "showTime": [["10:45 AM", "13:35 PM", "16:20 PM", "19:00 PM", "21:40 PM"], ["15:20 PM"]]
+            }
+          ]
+        ]
+      },
+      {
+        "province": "Quảng Ninh",
+        "availabelFormat": ["2D Eng&Viet Sub"],
+        "data": [
+          [
+            { "siteName": "CGV Vincom Hạ Long", "siteType": ["Rạp 2D"], "showTime": [["13:15 PM", "17:00 PM"]] },
+            { "siteName": "CGV Vincom Móng Cái", "siteType": ["Rạp 2D"], "showTime": [["16:45 PM"]] },
+            { "siteName": "CGV Vincom Cẩm Phả", "siteType": ["Rạp 2D"], "showTime": [["17:10 PM"]] }
+          ]
+        ]
+      },
+      {
+        "province": "Bà Rịa-Vũng Tàu",
+        "availabelFormat": ["2D Eng&Viet Sub"],
+        "data": [[{ "siteName": "CGV Lam Sơn Square", "siteType": ["Rạp 2D"], "showTime": [["15:05 PM", "21:15 PM"]] }]]
+      },
+      {
+        "province": "Bình Định",
+        "availabelFormat": ["2D Eng&Viet Sub"],
+        "data": [[{ "siteName": "CGV Kim Cúc Plaza", "siteType": ["Rạp 2D"], "showTime": [["11:10 AM", "16:30 PM"]] }]]
+      },
+      {
+        "province": "Bình Dương",
+        "availabelFormat": ["2D Eng&Viet Sub"],
+        "data": [
+          [
+            {
+              "siteName": "CGV Aeon Canary",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["09:00 AM", "11:00 AM", "18:00 PM", "21:30 PM"]]
+            },
+            {
+              "siteName": "CGV Bình Dương Square",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["11:40 AM", "15:30 PM", "19:10 PM"]]
+            }
+          ]
+        ]
+      },
+      {
+        "province": "Đắk Lắk",
+        "availabelFormat": ["2D Eng&Viet Sub"],
+        "data": [[{ "siteName": "CGV Buôn Mê Thuột", "siteType": ["Rạp 2D"], "showTime": [["15:50 PM"]] }]]
+      },
+      {
+        "province": "Trà Vinh",
+        "availabelFormat": ["2D Eng&Viet Sub"],
+        "data": [
+          [{ "siteName": "CGV Vincom Trà Vinh", "siteType": ["Rạp 2D"], "showTime": [["10:10 AM", "16:00 PM"]] }]
+        ]
+      },
+      {
+        "province": "Yên Bái",
+        "availabelFormat": ["2D Eng&Viet Sub"],
+        "data": [[{ "siteName": "CGV Vincom Yên Bái", "siteType": ["Rạp 2D"], "showTime": [["13:40 PM"]] }]]
+      },
+      {
+        "province": "Vĩnh Long",
+        "availabelFormat": ["2D Eng&Viet Sub"],
+        "data": [
+          [{ "siteName": "CGV Vincom Vĩnh Long", "siteType": ["Rạp 2D"], "showTime": [["14:30 PM", "20:40 PM"]] }]
+        ]
+      },
+      {
+        "province": "Kiên Giang",
+        "availabelFormat": ["2D Eng&Viet Sub"],
+        "data": [
+          [
+            {
+              "siteName": "CGV Vincom Rạch Giá",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["10:00 AM", "12:40 PM", "15:20 PM", "18:00 PM", "20:00 PM", "21:20 PM"]]
+            }
+          ]
+        ]
+      },
+      {
+        "province": "Hậu Giang",
+        "availabelFormat": ["2D Eng&Viet Sub"],
+        "data": [[{ "siteName": "CGV Vincom Vị Thanh", "siteType": ["Rạp 2D"], "showTime": [["19:40 PM"]] }]]
+      },
+      {
+        "province": "Hà Tĩnh",
+        "availabelFormat": ["2D Eng&Viet Sub"],
+        "data": [[{ "siteName": "CGV Vincom Hà Tĩnh", "siteType": ["Rạp 2D"], "showTime": [["12:15 PM"]] }]]
+      },
+      {
+        "province": "Phú Yên",
+        "availabelFormat": ["2D Eng&Viet Sub"],
+        "data": [[{ "siteName": "CGV Vincom Phú Yên", "siteType": ["Rạp 2D"], "showTime": [["15:50 PM"]] }]]
+      },
+      {
+        "province": "Đồng Tháp",
+        "availabelFormat": ["2D Eng&Viet Sub"],
+        "data": [
+          [{ "siteName": "CGV Vincom Cao Lãnh", "siteType": ["Rạp 2D"], "showTime": [["14:00 PM", "21:00 PM"]] }]
+        ]
+      },
+      {
+        "province": "Khánh Hòa",
+        "availabelFormat": ["2D Eng&Viet Sub"],
+        "data": [[{ "siteName": "CGV Big C Nha Trang", "siteType": ["Rạp 2D"], "showTime": [["12:40 PM"]] }]]
+      },
+      {
+        "province": "Kon Tum",
+        "availabelFormat": ["2D Eng&Viet Sub"],
+        "data": [[{ "siteName": "CGV Vincom Kon Tum", "siteType": ["Rạp 2D"], "showTime": [["19:30 PM"]] }]]
+      },
+      {
+        "province": "Lạng Sơn",
+        "availabelFormat": ["2D Eng&Viet Sub"],
+        "data": [[{ "siteName": "CGV Vincom Lạng Sơn", "siteType": ["Rạp 2D"], "showTime": [["21:40 PM"]] }]]
+      },
+      {
+        "province": "Nghệ An",
+        "availabelFormat": ["2D Eng&Viet Sub"],
+        "data": [
+          [
+            {
+              "siteName": "CGV Vinh Centre",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["10:40 AM", "16:30 PM", "20:00 PM"]]
+            }
+          ]
+        ]
+      },
+      {
+        "province": "Quảng Ngãi",
+        "availabelFormat": ["2D Eng&Viet Sub"],
+        "data": [[{ "siteName": "CGV Vincom Quảng Ngãi", "siteType": ["Rạp 2D"], "showTime": [["16:20 PM"]] }]]
+      },
+      {
+        "province": "Sóc Trăng",
+        "availabelFormat": ["2D Eng&Viet Sub"],
+        "data": [[{ "siteName": "CGV Vincom Sóc Trăng", "siteType": ["Rạp 2D"], "showTime": [["13:50 PM"]] }]]
+      },
+      {
+        "province": "Sơn La",
+        "availabelFormat": ["2D Eng&Viet Sub"],
+        "data": [[{ "siteName": "CGV Vincom Sơn La", "siteType": ["Rạp 2D"], "showTime": [["21:10 PM"]] }]]
+      },
+      {
+        "province": "Tây Ninh",
+        "availabelFormat": ["2D Eng&Viet Sub"],
+        "data": [
+          [{ "siteName": "CGV Vincom Tây Ninh", "siteType": ["Rạp 2D"], "showTime": [["13:50 PM", "21:20 PM"]] }]
+        ]
+      },
+      {
+        "province": "Thái Nguyên",
+        "availabelFormat": ["2D Eng&Viet Sub"],
+        "data": [[{ "siteName": "CGV Vincom Thái Nguyên", "siteType": ["Rạp 2D"], "showTime": [["21:40 PM"]] }]]
+      },
+      {
+        "province": "Tiền Giang",
+        "availabelFormat": ["2D Eng&Viet Sub"],
+        "data": [
+          [{ "siteName": "CGV GO! Mỹ Tho", "siteType": ["Rạp 2D"], "showTime": [["10:50 AM", "14:20 PM", "19:00 PM"]] }]
+        ]
+      }
+    ]
+  },
+  {
+    "images": "https://www.cgv.vn/media/catalog/product/cache/1/image/c5f0a1eff4c394a251036189ccddaacd/c/o/conan_movie_2022-_vnese_poster_1_.jpg",
+    "title": "THÁM TỬ LỪNG DANH CONAN: NÀNG DÂU HALLOWEEN",
+    "director": "Gosho Aoyama, Susumu Mitsunaka",
+    "actor": "Minami Takayama, Chafûrin, Tôru Furuya",
+    "genre": "Hoạt Hình",
+    "release": "22/07/2022",
+    "runtime": "111 phút",
+    "language": "Tiếng Nhật - Phụ đề Tiếng Việt",
+    "rating": "C13 - Phim cấm khán giả dưới 13 tuổi",
+    "technology": [],
+    "description": "Tại Shibuya náo nhiệt mùa Halloween, Thiếu úy Sato Miwako khoác lên mình chiếc váy cưới tinh khôi trong tiệc cưới như cổ tích, và người đàn ông bên cạnh cô không ai khác ngoài Trung sĩ Takagi Wataru. Trong giây phút trọng đại, một nhóm người xấu ập vào tấn công, Trung sĩ Takagi liều mình bảo vệ Sato. Anh tai qua nạn khỏi, nhưng Sato chết lặng khi nhìn thấy bóng ma Thần Chết trong giây phút sinh tử của Takagi. Điều này khiến cô nhớ lại cái chết của đồng nghiệp, cũng là người cô từng yêu trước đây, Thanh tra Matsuda Jinpei. Cùng lúc này, hung thủ của vụ đánh bom liên tiếp mà Matsuda điều tra năm xưa đã vượt ngục thành công. Khi Conan tìm đến Furuya Rei (hay Amuro Toru), người bạn cùng khóa với Matsuda, cậu được nghe câu chuyện liên quan đến vụ đánh bom với kẻ thủ ác mang bí danh \"Plamya\". Hôn lễ nguy hiểm nhất thế giới, buổi dạ hành đẫm máu tại Shibuya vào đêm Halloween sắp sửa bắt đầu.",
+    "trailerEmbed": "www.youtube.com/embed/SqSJPzWvcLc?rel=0&showinfo=0",
+    "youtubeID": "SqSJPzWvcLc",
+    "lichChieu": [
+      {
+        "province": "Hồ Chí Minh",
+        "availabelFormat": ["2D Phụ Đề Việt"],
+        "data": [
+          [
+            {
+              "siteName": "CGV Aeon Tân Phú",
+              "siteType": ["Rạp 2D"],
+              "showTime": [
+                [
+                  "09:20 AM",
+                  "10:40 AM",
+                  "11:50 AM",
+                  "13:00 PM",
+                  "14:10 PM",
+                  "15:20 PM",
+                  "16:30 PM",
+                  "17:40 PM",
+                  "18:50 PM",
+                  "20:10 PM",
+                  "21:10 PM"
+                ]
+              ]
+            },
+            {
+              "siteName": "CGV Hùng Vương Plaza",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["09:20 AM", "10:20 AM", "12:40 PM", "15:00 PM", "17:20 PM", "19:40 PM", "22:00 PM"]]
+            },
+            {
+              "siteName": "CGV Aeon Bình Tân",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["09:40 AM", "12:20 PM", "14:10 PM", "16:20 PM", "18:10 PM", "20:20 PM"]]
+            },
+            {
+              "siteName": "CGV Vincom Thủ Đức",
+              "siteType": ["Rạp STARIUM", "Rạp 2D"],
+              "showTime": [["09:50 AM"], ["13:15 PM", "15:45 PM", "20:15 PM"]]
+            },
+            {
+              "siteName": "CGV Giga Mall Thủ Đức",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["09:50 AM", "12:40 PM", "15:00 PM", "19:45 PM", "22:30 PM"]]
+            },
+            {
+              "siteName": "CGV Thảo Điền Pearl",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["10:00 AM", "12:20 PM", "16:50 PM", "19:00 PM", "21:10 PM"]]
+            },
+            {
+              "siteName": "CGV Sư Vạn Hạnh",
+              "siteType": ["Rạp 2D"],
+              "showTime": [
+                ["10:00 AM", "11:10 AM", "12:20 PM", "13:30 PM", "14:40 PM", "17:00 PM", "19:30 PM", "21:50 PM"]
+              ]
+            },
+            {
+              "siteName": "CGV Satra Củ Chi",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["10:00 AM", "12:10 PM", "14:20 PM", "16:30 PM", "18:40 PM"]]
+            },
+            {
+              "siteName": "CGV Trường Sơn (CGV CT Plaza)",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["10:10 AM", "12:30 PM", "14:45 PM", "17:00 PM", "19:30 PM"]]
+            },
+            {
+              "siteName": "CGV Vincom Đồng Khởi",
+              "siteType": ["Rạp 2D", "Rạp PREMIUM"],
+              "showTime": [
+                ["10:10 AM", "12:30 PM", "14:50 PM", "17:10 PM", "19:30 PM", "20:40 PM", "21:20 PM"],
+                ["13:00 PM", "15:20 PM", "17:40 PM", "20:00 PM"]
+              ]
+            },
+            {
+              "siteName": "CGV Liberty Citypoint",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["10:20 AM", "14:30 PM", "18:30 PM"]]
+            },
+            {
+              "siteName": "CGV Pandora City",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["10:30 AM", "12:50 PM", "15:10 PM", "17:30 PM", "19:50 PM", "21:50 PM"]]
+            },
+            {
+              "siteName": "CGV Vincom Center Landmark 81",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["10:30 AM", "12:10 PM", "16:50 PM", "19:20 PM"]]
+            },
+            {
+              "siteName": "CGV Pearl Plaza",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["10:50 AM", "13:10 PM", "15:30 PM", "17:45 PM", "20:00 PM", "22:20 PM"]]
+            },
+            {
+              "siteName": "CGV Crescent Mall",
+              "siteType": ["Rạp 2D", "Rạp Cine & Living Room"],
+              "showTime": [
+                ["11:00 AM", "12:40 PM", "15:00 PM", "15:50 PM", "16:40 PM", "17:20 PM", "19:00 PM", "20:40 PM"],
+                ["22:00 PM"]
+              ]
+            },
+            {
+              "siteName": "CGV Saigonres Nguyễn Xí",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["11:10 AM", "15:50 PM", "17:40 PM", "20:45 PM"]]
+            },
+            {
+              "siteName": "CGV Lý Chính Thắng",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["11:20 AM", "13:40 PM", "15:50 PM", "18:00 PM", "20:10 PM", "22:20 PM"]]
+            },
+            {
+              "siteName": "CGV Vincom Gò Vấp",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["11:30 AM", "13:45 PM", "16:00 PM", "20:15 PM"]]
+            },
+            {
+              "siteName": "CGV Parkson Đồng Khởi",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["12:40 PM", "14:50 PM", "17:00 PM", "19:10 PM"]]
+            },
+            {
+              "siteName": "CGV Vivo City",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["13:00 PM", "14:00 PM", "16:10 PM", "17:30 PM", "18:30 PM", "20:40 PM"]]
+            }
+          ]
+        ]
+      },
+      {
+        "province": "Hà Nội",
+        "availabelFormat": ["2D Phụ Đề Việt"],
+        "data": [
+          [
+            {
+              "siteName": "CGV Aeon Long Biên",
+              "siteType": ["Rạp 2D"],
+              "showTime": [
+                ["09:40 AM", "10:55 AM", "12:05 PM", "13:15 PM", "15:35 PM", "17:05 PM", "20:20 PM", "22:30 PM"]
+              ]
+            },
+            {
+              "siteName": "CGV Hồ Gươm Plaza",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["10:00 AM", "12:55 PM", "17:00 PM", "19:15 PM"]]
+            },
+            {
+              "siteName": "CGV Vincom Center Bà Triệu",
+              "siteType": ["Rạp 2D"],
+              "showTime": [
+                ["10:00 AM", "11:05 AM", "13:30 PM", "14:20 PM", "15:20 PM", "15:55 PM", "18:20 PM", "20:45 PM"]
+              ]
+            },
+            { "siteName": "CGV Tràng Tiền Plaza", "siteType": ["Rạp 2D"], "showTime": [["10:05 AM", "17:05 PM"]] },
+            {
+              "siteName": "CGV Vincom Royal City",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["10:10 AM", "12:30 PM", "14:50 PM", "17:10 PM", "19:30 PM", "21:50 PM"]]
+            },
+            { "siteName": "CGV Mipec Tower", "siteType": ["Rạp 2D"], "showTime": [["10:20 AM", "12:45 PM"]] },
+            {
+              "siteName": "CGV Vincom Metropolis Liễu Giai",
+              "siteType": ["Rạp LG Cinema"],
+              "showTime": [["10:20 AM", "12:45 PM", "15:15 PM"]]
+            },
+            {
+              "siteName": "CGV Rice City",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["10:25 AM", "16:35 PM", "20:00 PM", "22:40 PM"]]
+            },
+            { "siteName": "CGV Xuân Diệu", "siteType": ["Rạp 2D"], "showTime": [["10:25 AM", "15:20 PM", "17:35 PM"]] },
+            {
+              "siteName": "CGV Vincom Ocean Park",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["10:30 AM", "14:30 PM", "16:40 PM", "20:35 PM"]]
+            },
+            {
+              "siteName": "CGV Vincom Trần Duy Hưng",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["10:40 AM", "13:00 PM", "15:20 PM", "17:40 PM", "20:00 PM", "22:30 PM"]]
+            },
+            { "siteName": "CGV Vincom Long Biên", "siteType": ["Rạp 2D"], "showTime": [["10:45 AM", "15:05 PM"]] },
+            {
+              "siteName": "CGV Vincom Times City",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["11:00 AM", "11:50 AM", "13:15 PM", "14:05 PM", "15:30 PM", "17:45 PM", "20:00 PM"]]
+            },
+            {
+              "siteName": "CGV Indochina Plaza Hà Nội",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["11:10 AM", "13:30 PM", "15:50 PM", "18:05 PM", "20:25 PM", "22:40 PM"]]
+            },
+            {
+              "siteName": "CGV Hà Nội Centerpoint",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["11:10 AM", "13:30 PM", "18:50 PM"]]
+            },
+            {
+              "siteName": "CGV Vincom Sky Lake Phạm Hùng",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["11:35 AM", "13:25 PM", "22:50 PM"]]
+            },
+            {
+              "siteName": "CGV Mac Plaza (Machinco)",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["11:50 AM", "13:35 PM", "16:00 PM", "17:45 PM", "19:00 PM", "20:00 PM", "21:45 PM"]]
+            },
+            { "siteName": "CGV Trương Định Plaza", "siteType": ["Rạp 2D"], "showTime": [["11:50 AM", "22:30 PM"]] },
+            {
+              "siteName": "CGV Vincom Bắc Từ Liêm",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["12:25 PM", "17:00 PM", "19:00 PM", "21:10 PM"]]
+            },
+            {
+              "siteName": "CGV Aeon Hà Đông",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["12:45 PM", "15:00 PM", "17:15 PM", "19:30 PM", "21:50 PM"]]
+            },
+            { "siteName": "CGV Sun Grand Thụy Khuê", "siteType": ["Rạp 2D"], "showTime": [["13:30 PM", "16:40 PM"]] },
+            {
+              "siteName": "CGV Sun Grand Lương Yên",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["14:05 PM", "15:50 PM", "19:05 PM"]]
+            },
+            {
+              "siteName": "CGV Vincom Nguyễn Chí Thanh",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["15:00 PM", "17:25 PM", "19:50 PM", "22:15 PM"]]
+            }
+          ]
+        ]
+      },
+      {
+        "province": "Đà Nẵng",
+        "availabelFormat": ["2D Phụ Đề Việt"],
+        "data": [
+          [
+            {
+              "siteName": "CGV Vĩnh Trung Plaza",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["11:10 AM", "13:20 PM", "15:40 PM", "18:40 PM", "20:15 PM"]]
+            },
+            {
+              "siteName": "CGV Vincom Đà Nẵng",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["14:15 PM", "16:30 PM", "20:50 PM"]]
+            }
+          ]
+        ]
+      },
+      {
+        "province": "Cần Thơ",
+        "availabelFormat": ["2D Phụ Đề Việt"],
+        "data": [
+          [
+            {
+              "siteName": "CGV Vincom Hùng Vương",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["09:30 AM", "11:50 AM", "13:00 PM", "15:20 PM", "18:00 PM"]]
+            },
+            {
+              "siteName": "CGV Sense City",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["09:30 AM", "11:50 AM", "17:20 PM", "19:40 PM", "22:00 PM"]]
+            },
+            {
+              "siteName": "CGV Vincom Xuân Khánh",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["11:00 AM", "13:10 PM", "15:30 PM", "16:30 PM", "18:50 PM", "19:30 PM", "22:45 PM"]]
+            }
+          ]
+        ]
+      },
+      {
+        "province": "Đồng Nai",
+        "availabelFormat": ["2D Phụ Đề Việt"],
+        "data": [
+          [
+            {
+              "siteName": "CGV Coopmart Biên Hòa",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["09:30 AM", "13:40 PM", "16:00 PM", "20:40 PM"]]
+            },
+            {
+              "siteName": "CGV Big C Đồng Nai",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["10:00 AM", "11:30 AM", "15:00 PM", "17:00 PM"]]
+            }
+          ]
+        ]
+      },
+      {
+        "province": "Hải Phòng",
+        "availabelFormat": ["2D Phụ Đề Việt"],
+        "data": [
+          [
+            {
+              "siteName": "CGV Vincom Hải Phòng",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["10:00 AM", "11:40 AM", "14:00 PM", "16:10 PM"]]
+            },
+            {
+              "siteName": "CGV Aeon Mall Hải Phòng",
+              "siteType": ["Rạp STARIUM"],
+              "showTime": [["10:20 AM", "12:45 PM", "15:10 PM", "17:35 PM", "20:00 PM"]]
+            }
+          ]
+        ]
+      },
+      {
+        "province": "Quảng Ninh",
+        "availabelFormat": ["2D Phụ Đề Việt"],
+        "data": [
+          [
+            {
+              "siteName": "CGV Vincom Móng Cái",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["10:20 AM", "14:35 PM", "21:20 PM"]]
+            },
+            {
+              "siteName": "CGV Vincom Hạ Long",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["11:00 AM", "14:40 PM", "18:05 PM", "20:20 PM"]]
+            },
+            {
+              "siteName": "CGV Vincom Cẩm Phả",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["11:35 AM", "14:00 PM", "19:25 PM", "21:25 PM"]]
+            }
+          ]
+        ]
+      },
+      {
+        "province": "Bà Rịa-Vũng Tàu",
+        "availabelFormat": ["2D Phụ Đề Việt"],
+        "data": [
+          [
+            {
+              "siteName": "CGV Lam Sơn Square",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["10:15 AM", "12:15 PM", "16:45 PM", "19:40 PM", "21:55 PM"]]
+            }
+          ]
+        ]
+      },
+      {
+        "province": "Bình Định",
+        "availabelFormat": ["2D Phụ Đề Việt"],
+        "data": [
+          [
+            {
+              "siteName": "CGV Kim Cúc Plaza",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["10:20 AM", "11:50 AM", "15:30 PM", "19:30 PM"]]
+            }
+          ]
+        ]
+      },
+      {
+        "province": "Bình Dương",
+        "availabelFormat": ["2D Phụ Đề Việt"],
+        "data": [
+          [
+            {
+              "siteName": "CGV Bình Dương Square",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["09:10 AM", "10:40 AM", "11:30 AM", "13:50 PM", "16:10 PM", "18:10 PM", "21:30 PM"]]
+            },
+            {
+              "siteName": "CGV Aeon Canary",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["10:00 AM", "11:40 AM", "13:40 PM", "14:40 PM", "16:40 PM", "18:40 PM"]]
+            }
+          ]
+        ]
+      },
+      {
+        "province": "Đắk Lắk",
+        "availabelFormat": ["2D Phụ Đề Việt"],
+        "data": [[{ "siteName": "CGV Buôn Mê Thuột", "siteType": ["Rạp 2D"], "showTime": [["11:30 AM", "14:40 PM"]] }]]
+      },
+      {
+        "province": "Trà Vinh",
+        "availabelFormat": ["2D Phụ Đề Việt"],
+        "data": [
+          [
+            {
+              "siteName": "CGV Vincom Trà Vinh",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["11:20 AM", "13:50 PM", "15:20 PM", "16:50 PM", "19:20 PM"]]
+            }
+          ]
+        ]
+      },
+      {
+        "province": "Yên Bái",
+        "availabelFormat": ["2D Phụ Đề Việt"],
+        "data": [[{ "siteName": "CGV Vincom Yên Bái", "siteType": ["Rạp 2D"], "showTime": [["12:40 PM", "19:20 PM"]] }]]
+      },
+      {
+        "province": "Vĩnh Long",
+        "availabelFormat": ["2D Phụ Đề Việt"],
+        "data": [
+          [
+            {
+              "siteName": "CGV Vincom Vĩnh Long",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["10:45 AM", "13:40 PM", "17:10 PM"]]
+            }
+          ]
+        ]
+      },
+      {
+        "province": "Kiên Giang",
+        "availabelFormat": ["2D Phụ Đề Việt"],
+        "data": [
+          [
+            {
+              "siteName": "CGV Vincom Rạch Giá",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["10:20 AM", "11:40 AM", "12:50 PM", "15:10 PM", "16:20 PM", "17:30 PM", "18:40 PM"]]
+            }
+          ]
+        ]
+      },
+      {
+        "province": "Hậu Giang",
+        "availabelFormat": ["2D Phụ Đề Việt"],
+        "data": [
+          [
+            {
+              "siteName": "CGV Vincom Vị Thanh",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["11:20 AM", "14:10 PM", "18:20 PM"]]
+            }
+          ]
+        ]
+      },
+      {
+        "province": "Hà Tĩnh",
+        "availabelFormat": ["2D Phụ Đề Việt"],
+        "data": [
+          [
+            {
+              "siteName": "CGV Vincom Hà Tĩnh",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["14:30 PM", "17:10 PM", "19:20 PM"]]
+            }
+          ]
+        ]
+      },
+      {
+        "province": "Phú Yên",
+        "availabelFormat": ["2D Phụ Đề Việt"],
+        "data": [
+          [
+            {
+              "siteName": "CGV Vincom Phú Yên",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["12:00 PM", "14:10 PM", "16:20 PM"]]
+            }
+          ]
+        ]
+      },
+      {
+        "province": "Đồng Tháp",
+        "availabelFormat": ["2D Phụ Đề Việt"],
+        "data": [
+          [
+            {
+              "siteName": "CGV Vincom Cao Lãnh",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["10:10 AM", "11:50 AM", "14:30 PM", "18:50 PM"]]
+            }
+          ]
+        ]
+      },
+      {
+        "province": "Khánh Hòa",
+        "availabelFormat": ["2D Phụ Đề Việt"],
+        "data": [
+          [
+            {
+              "siteName": "CGV Big C Nha Trang",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["09:40 AM", "11:50 AM", "15:15 PM", "18:20 PM"]]
+            }
+          ]
+        ]
+      },
+      {
+        "province": "Kon Tum",
+        "availabelFormat": ["2D Phụ Đề Việt"],
+        "data": [[{ "siteName": "CGV Vincom Kon Tum", "siteType": ["Rạp 2D"], "showTime": [["16:00 PM"]] }]]
+      },
+      {
+        "province": "Lạng Sơn",
+        "availabelFormat": ["2D Phụ Đề Việt"],
+        "data": [
+          [
+            {
+              "siteName": "CGV Vincom Lạng Sơn",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["10:45 AM", "14:00 PM", "19:00 PM"]]
+            }
+          ]
+        ]
+      },
+      {
+        "province": "Nghệ An",
+        "availabelFormat": ["2D Phụ Đề Việt"],
+        "data": [[{ "siteName": "CGV Vinh Centre", "siteType": ["Rạp 2D"], "showTime": [["12:25 PM", "17:00 PM"]] }]]
+      },
+      {
+        "province": "Quảng Ngãi",
+        "availabelFormat": ["2D Phụ Đề Việt"],
+        "data": [
+          [{ "siteName": "CGV Vincom Quảng Ngãi", "siteType": ["Rạp 2D"], "showTime": [["13:20 PM", "15:30 PM"]] }]
+        ]
+      },
+      {
+        "province": "Sóc Trăng",
+        "availabelFormat": ["2D Phụ Đề Việt"],
+        "data": [
+          [{ "siteName": "CGV Vincom Sóc Trăng", "siteType": ["Rạp 2D"], "showTime": [["10:50 AM", "17:10 PM"]] }]
+        ]
+      },
+      {
+        "province": "Sơn La",
+        "availabelFormat": ["2D Phụ Đề Việt"],
+        "data": [[{ "siteName": "CGV Vincom Sơn La", "siteType": ["Rạp 2D"], "showTime": [["16:30 PM", "22:00 PM"]] }]]
+      },
+      {
+        "province": "Tây Ninh",
+        "availabelFormat": ["2D Phụ Đề Việt"],
+        "data": [
+          [
+            {
+              "siteName": "CGV Vincom Tây Ninh",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["11:30 AM", "14:40 PM", "19:10 PM"]]
+            }
+          ]
+        ]
+      },
+      {
+        "province": "Thái Nguyên",
+        "availabelFormat": ["2D Phụ Đề Việt"],
+        "data": [
+          [
+            {
+              "siteName": "CGV Vincom Thái Nguyên",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["12:25 PM", "14:40 PM", "18:15 PM", "21:00 PM"]]
+            }
+          ]
+        ]
+      },
+      {
+        "province": "Tiền Giang",
+        "availabelFormat": ["2D Phụ Đề Việt"],
+        "data": [
+          [
+            {
+              "siteName": "CGV GO! Mỹ Tho",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["10:10 AM", "12:20 PM", "14:30 PM", "16:50 PM", "18:30 PM"]]
+            }
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "images": "https://www.cgv.vn/media/catalog/product/cache/1/image/c5f0a1eff4c394a251036189ccddaacd/m/i/minions_2_-_kc_01.7.22_1_.jpg",
+    "title": "MINIONS: SỰ TRỖI DẬY CỦA GRU",
+    "director": "Kyle Balda, Brad Ableson, Jonathan del Val",
+    "actor": "Steve Carell, Lucy Lawless, Michelle Yeoh...",
+    "genre": "Hài, Hoạt Hình, Phiêu Lưu",
+    "release": "01/07/2022",
+    "runtime": "88 phút",
+    "language": "Tiếng Anh với phụ đề tiếng Việt và lồng tiếng Việt",
+    "rating": "P - Phim dành cho mọi đối tượng",
+    "technology": ["4DX", "IMAX"],
+    "description": "Rất lâu trước khi trở thành một phản diện chuyên nghiệp, Gru chỉ là một cậu bé 12 tuổi sống ở vùng ngoại ô vào những năm 1970, với ước mơ một ngày sẽ làm “bá chủ” thế giới. Và 3 “quả chuối” vàng biết đi từ trên trời rơi xuống đã là những đồng đội đầu tiên của Gru, bên cạnh ủng hộ cậu bé, cùng nhau thiết kế những vũ khí đầu tiên, thực hiện những phi vụ đầu tiên.",
+    "trailerEmbed": "www.youtube.com/embed/dTQXlDV16SY?rel=0&showinfo=0",
+    "youtubeID": "dTQXlDV16SY",
+    "lichChieu": [
+      {
+        "province": "Hồ Chí Minh",
+        "availabelFormat": ["2D Phụ Đề Việt", "2D Lồng Tiếng Việt", "IMAX2D Phụ Đề Việt"],
+        "data": [
+          [
+            { "siteName": "CGV Hùng Vương Plaza", "siteType": ["Rạp SCREENX"], "showTime": [["13:10 PM", "17:50 PM"]] },
+            {
+              "siteName": "CGV Trường Sơn (CGV CT Plaza)",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["09:50 AM", "13:45 PM", "17:40 PM"]]
+            },
+            {
+              "siteName": "CGV Crescent Mall",
+              "siteType": ["Rạp 2D", "Rạp Cine & Living Room"],
+              "showTime": [["09:50 AM", "13:40 PM"], ["20:00 PM"]]
+            },
+            { "siteName": "CGV Pandora City", "siteType": ["Rạp 2D"], "showTime": [["10:00 AM", "18:00 PM"]] },
+            { "siteName": "CGV Aeon Tân Phú", "siteType": ["Rạp 2D"], "showTime": [["16:50 PM"]] },
+            {
+              "siteName": "CGV Thảo Điền Pearl",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["11:10 AM", "14:00 PM", "18:00 PM", "20:00 PM"]]
+            },
+            {
+              "siteName": "CGV Liberty Citypoint",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["09:50 AM", "11:40 AM", "13:30 PM", "15:20 PM", "17:10 PM", "19:10 PM"]]
+            },
+            { "siteName": "CGV Vincom Thủ Đức", "siteType": ["Rạp 2D"], "showTime": [["18:10 PM"]] },
+            {
+              "siteName": "CGV Pearl Plaza",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["11:45 AM", "15:50 PM", "20:40 PM", "22:40 PM"]]
+            },
+            { "siteName": "CGV Aeon Bình Tân", "siteType": ["Rạp 2D"], "showTime": [["22:10 PM"]] },
+            { "siteName": "CGV Vincom Đồng Khởi", "siteType": ["Rạp 2D"], "showTime": [["09:40 AM", "23:00 PM"]] },
+            { "siteName": "CGV Parkson Đồng Khởi", "siteType": ["Rạp 2D"], "showTime": [["18:20 PM"]] },
+            { "siteName": "CGV Sư Vạn Hạnh", "siteType": ["Rạp 2D"], "showTime": [["12:50 PM"]] },
+            {
+              "siteName": "CGV Vincom Center Landmark 81",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["12:00 PM", "15:00 PM"]]
+            },
+            { "siteName": "CGV Giga Mall Thủ Đức", "siteType": ["Rạp 2D"], "showTime": [["16:10 PM"]] },
+            {
+              "siteName": "CGV Lý Chính Thắng",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["09:40 AM", "11:40 AM", "13:30 PM", "15:20 PM", "17:10 PM", "19:00 PM", "20:50 PM"]]
+            }
+          ],
+          [
+            {
+              "siteName": "CGV Hùng Vương Plaza",
+              "siteType": ["Rạp 2D", "Rạp SCREENX"],
+              "showTime": [
+                ["10:50 AM", "14:15 PM", "16:50 PM"],
+                ["08:40 AM", "19:50 PM"]
+              ]
+            },
+            {
+              "siteName": "CGV Trường Sơn (CGV CT Plaza)",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["11:45 AM", "15:50 PM", "18:50 PM"]]
+            },
+            { "siteName": "CGV Crescent Mall", "siteType": ["Rạp Cine & Living Room"], "showTime": [["18:00 PM"]] },
+            {
+              "siteName": "CGV Pandora City",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["12:00 PM", "14:00 PM", "16:00 PM", "20:00 PM"]]
+            },
+            {
+              "siteName": "CGV Aeon Tân Phú",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["12:10 PM", "14:10 PM", "16:20 PM", "18:20 PM", "20:20 PM"]]
+            },
+            { "siteName": "CGV Thảo Điền Pearl", "siteType": ["Rạp 2D"], "showTime": [["16:00 PM"]] },
+            {
+              "siteName": "CGV Vincom Thủ Đức",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["10:40 AM", "11:30 AM", "12:50 PM", "15:00 PM", "17:00 PM", "19:00 PM", "20:20 PM"]]
+            },
+            { "siteName": "CGV Vivo City", "siteType": ["Rạp Cine & Suite"], "showTime": [["16:45 PM"]] },
+            { "siteName": "CGV Pearl Plaza", "siteType": ["Rạp 2D"], "showTime": [["18:40 PM"]] },
+            { "siteName": "CGV Vincom Gò Vấp", "siteType": ["Rạp 2D"], "showTime": [["10:15 AM", "18:45 PM"]] },
+            {
+              "siteName": "CGV Aeon Bình Tân",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["10:30 AM", "14:30 PM", "18:30 PM"]]
+            },
+            {
+              "siteName": "CGV Saigonres Nguyễn Xí",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["10:00 AM", "14:20 PM", "18:40 PM"]]
+            },
+            {
+              "siteName": "CGV Sư Vạn Hạnh",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["10:50 AM", "17:30 PM", "18:40 PM"]]
+            },
+            { "siteName": "CGV Vincom Center Landmark 81", "siteType": ["Rạp 2D"], "showTime": [["16:00 PM"]] },
+            { "siteName": "CGV Satra Củ Chi", "siteType": ["Rạp 2D"], "showTime": [["10:40 AM"]] },
+            {
+              "siteName": "CGV Giga Mall Thủ Đức",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["09:30 AM", "11:30 AM", "14:00 PM", "18:20 PM", "19:30 PM", "20:20 PM"]]
+            }
+          ],
+          [
+            { "siteName": "CGV Vivo City", "siteType": ["Rạp IMAX"], "showTime": [["19:00 PM"]] },
+            { "siteName": "CGV Vincom Center Landmark 81", "siteType": ["Rạp IMAX"], "showTime": [["20:00 PM"]] }
+          ]
+        ]
+      },
+      {
+        "province": "Hà Nội",
+        "availabelFormat": ["2D Phụ Đề Việt", "2D Lồng Tiếng Việt"],
+        "data": [
+          [
+            {
+              "siteName": "CGV Vincom Center Bà Triệu",
+              "siteType": ["Rạp 2D"],
+              "showTime": [
+                ["11:10 AM", "12:20 PM", "14:45 PM", "15:15 PM", "18:35 PM", "19:40 PM", "20:40 PM", "22:00 PM"]
+              ]
+            },
+            { "siteName": "CGV Mipec Tower", "siteType": ["Rạp 2D"], "showTime": [["18:00 PM"]] },
+            {
+              "siteName": "CGV Hồ Gươm Plaza",
+              "siteType": ["Rạp 2D"],
+              "showTime": [
+                [
+                  "09:55 AM",
+                  "11:00 AM",
+                  "13:15 PM",
+                  "14:30 PM",
+                  "15:30 PM",
+                  "16:25 PM",
+                  "17:30 PM",
+                  "19:30 PM",
+                  "21:00 PM"
+                ]
+              ]
+            },
+            {
+              "siteName": "CGV Aeon Long Biên",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["09:20 AM", "14:25 PM", "16:45 PM", "19:35 PM", "21:50 PM", "23:30 PM"]]
+            },
+            {
+              "siteName": "CGV Vincom Nguyễn Chí Thanh",
+              "siteType": ["Rạp 2D", "Rạp GOLD CLASS"],
+              "showTime": [
+                ["11:35 AM", "13:40 PM", "18:20 PM", "20:30 PM"],
+                ["10:10 AM", "19:15 PM", "21:20 PM"]
+              ]
+            },
+            {
+              "siteName": "CGV Indochina Plaza Hà Nội",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["09:50 AM", "11:50 AM", "13:50 PM", "15:50 PM", "17:50 PM", "19:50 PM", "21:50 PM"]]
+            },
+            { "siteName": "CGV Rice City", "siteType": ["Rạp 2D"], "showTime": [["20:05 PM"]] },
+            {
+              "siteName": "CGV Tràng Tiền Plaza",
+              "siteType": ["Rạp 2D", "Rạp Lamour"],
+              "showTime": [["12:50 PM", "15:15 PM", "17:20 PM"], ["13:45 PM"]]
+            },
+            { "siteName": "CGV Trương Định Plaza", "siteType": ["Rạp 2D"], "showTime": [["13:00 PM", "18:30 PM"]] },
+            {
+              "siteName": "CGV Vincom Royal City",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["10:05 AM", "16:20 PM", "18:20 PM", "20:15 PM", "22:10 PM", "23:05 PM"]]
+            },
+            {
+              "siteName": "CGV Vincom Times City",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["10:30 AM", "12:25 PM", "14:20 PM", "18:10 PM", "22:00 PM", "22:20 PM"]]
+            },
+            {
+              "siteName": "CGV Vincom Long Biên",
+              "siteType": ["Rạp 2D", "Rạp GOLD CLASS"],
+              "showTime": [["17:15 PM"], ["15:35 PM"]]
+            },
+            { "siteName": "CGV Mac Plaza (Machinco)", "siteType": ["Rạp 2D"], "showTime": [["11:30 AM", "20:00 PM"]] },
+            { "siteName": "CGV Sun Grand Thụy Khuê", "siteType": ["Rạp 2D"], "showTime": [["10:35 AM", "12:30 PM"]] },
+            { "siteName": "CGV Sun Grand Lương Yên", "siteType": ["Rạp 2D"], "showTime": [["10:15 AM"]] },
+            {
+              "siteName": "CGV Vincom Metropolis Liễu Giai",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["14:55 PM", "16:50 PM", "21:00 PM", "22:55 PM"]]
+            },
+            {
+              "siteName": "CGV Vincom Bắc Từ Liêm",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["11:40 AM", "13:30 PM", "14:45 PM", "17:10 PM", "20:35 PM", "22:35 PM"]]
+            },
+            {
+              "siteName": "CGV Xuân Diệu",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["10:35 AM", "12:35 PM", "14:30 PM", "16:30 PM", "18:25 PM", "20:20 PM", "22:20 PM"]]
+            },
+            {
+              "siteName": "CGV Vincom Sky Lake Phạm Hùng",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["10:05 AM", "14:55 PM", "18:40 PM", "23:20 PM"]]
+            },
+            {
+              "siteName": "CGV Vincom Trần Duy Hưng",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["11:15 AM", "15:10 PM", "20:35 PM"]]
+            },
+            {
+              "siteName": "CGV Aeon Hà Đông",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["10:35 AM", "14:10 PM", "18:30 PM", "22:45 PM"]]
+            },
+            {
+              "siteName": "CGV Vincom Ocean Park",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["11:55 AM", "15:40 PM", "19:20 PM", "22:30 PM"]]
+            }
+          ],
+          [
+            {
+              "siteName": "CGV Vincom Center Bà Triệu",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["10:10 AM", "16:20 PM", "16:45 PM", "20:00 PM"]]
+            },
+            { "siteName": "CGV Hồ Gươm Plaza", "siteType": ["Rạp 2D"], "showTime": [["14:00 PM", "20:30 PM"]] },
+            {
+              "siteName": "CGV Aeon Long Biên",
+              "siteType": ["Rạp 2D", "Rạp SCREENX"],
+              "showTime": [["18:20 PM", "20:30 PM"], ["15:45 PM"]]
+            },
+            {
+              "siteName": "CGV Rice City",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["10:00 AM", "13:00 PM", "14:20 PM", "16:20 PM", "18:20 PM"]]
+            },
+            { "siteName": "CGV Tràng Tiền Plaza", "siteType": ["Rạp 2D"], "showTime": [["19:30 PM"]] },
+            { "siteName": "CGV Trương Định Plaza", "siteType": ["Rạp 2D"], "showTime": [["10:00 AM", "14:50 PM"]] },
+            { "siteName": "CGV Vincom Times City", "siteType": ["Rạp 2D"], "showTime": [["16:15 PM", "20:05 PM"]] },
+            {
+              "siteName": "CGV Mac Plaza (Machinco)",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["10:00 AM", "14:05 PM", "15:50 PM", "18:15 PM"]]
+            },
+            { "siteName": "CGV Sun Grand Lương Yên", "siteType": ["Rạp 2D"], "showTime": [["13:55 PM", "18:00 PM"]] },
+            {
+              "siteName": "CGV Vincom Bắc Từ Liêm",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["10:35 AM", "15:20 PM", "18:45 PM"]]
+            },
+            {
+              "siteName": "CGV Vincom Sky Lake Phạm Hùng",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["17:55 PM", "19:50 PM"]]
+            },
+            { "siteName": "CGV Vincom Trần Duy Hưng", "siteType": ["Rạp 2D"], "showTime": [["18:20 PM"]] },
+            {
+              "siteName": "CGV Vincom Ocean Park",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["10:00 AM", "13:50 PM", "17:30 PM", "19:35 PM"]]
+            }
+          ]
+        ]
+      },
+      {
+        "province": "Đà Nẵng",
+        "availabelFormat": ["2D Phụ Đề Việt", "2D Lồng Tiếng Việt"],
+        "data": [
+          [
+            { "siteName": "CGV Vĩnh Trung Plaza", "siteType": ["Rạp 2D"], "showTime": [["15:30 PM"]] },
+            { "siteName": "CGV Vincom Đà Nẵng", "siteType": ["Rạp 2D"], "showTime": [["12:00 PM"]] }
+          ],
+          [
+            { "siteName": "CGV Vĩnh Trung Plaza", "siteType": ["Rạp 2D"], "showTime": [["09:30 AM"]] },
+            { "siteName": "CGV Vincom Đà Nẵng", "siteType": ["Rạp 2D"], "showTime": [["18:30 PM"]] }
+          ]
+        ]
+      },
+      {
+        "province": "Cần Thơ",
+        "availabelFormat": ["2D Lồng Tiếng Việt"],
+        "data": [
+          [
+            {
+              "siteName": "CGV Vincom Xuân Khánh",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["09:00 AM", "12:30 PM", "14:30 PM"]]
+            },
+            {
+              "siteName": "CGV Sense City",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["09:20 AM", "12:50 PM", "16:20 PM", "18:20 PM"]]
+            },
+            { "siteName": "CGV Vincom Hùng Vương", "siteType": ["Rạp 2D"], "showTime": [["16:00 PM"]] }
+          ]
+        ]
+      },
+      {
+        "province": "Đồng Nai",
+        "availabelFormat": ["2D Phụ Đề Việt", "2D Lồng Tiếng Việt"],
+        "data": [
+          [{ "siteName": "CGV Coopmart Biên Hòa", "siteType": ["Rạp 2D"], "showTime": [["18:00 PM"]] }],
+          [
+            {
+              "siteName": "CGV Coopmart Biên Hòa",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["09:00 AM", "11:30 AM", "13:00 PM", "17:10 PM"]]
+            },
+            { "siteName": "CGV Big C Đồng Nai", "siteType": ["Rạp 2D"], "showTime": [["09:00 AM", "13:20 PM"]] }
+          ]
+        ]
+      },
+      {
+        "province": "Hải Phòng",
+        "availabelFormat": ["2D Phụ Đề Việt", "2D Lồng Tiếng Việt"],
+        "data": [
+          [
+            {
+              "siteName": "CGV Vincom Hải Phòng",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["12:20 PM", "18:20 PM", "21:00 PM"]]
+            },
+            {
+              "siteName": "CGV Aeon Mall Hải Phòng",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["10:20 AM", "13:15 PM", "17:25 PM"]]
+            }
+          ],
+          [
+            {
+              "siteName": "CGV Aeon Mall Hải Phòng",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["11:10 AM", "15:30 PM", "19:30 PM"]]
+            }
+          ]
+        ]
+      },
+      {
+        "province": "Quảng Ninh",
+        "availabelFormat": ["2D Phụ Đề Việt", "2D Lồng Tiếng Việt"],
+        "data": [
+          [
+            {
+              "siteName": "CGV Vincom Hạ Long",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["10:10 AM", "17:20 PM", "21:10 PM"]]
+            },
+            { "siteName": "CGV Vincom Cẩm Phả", "siteType": ["Rạp 2D"], "showTime": [["15:30 PM", "18:25 PM"]] }
+          ],
+          [{ "siteName": "CGV Vincom Hạ Long", "siteType": ["Rạp 2D"], "showTime": [["19:15 PM"]] }]
+        ]
+      },
+      {
+        "province": "Bà Rịa-Vũng Tàu",
+        "availabelFormat": ["2D Lồng Tiếng Việt"],
+        "data": [[{ "siteName": "CGV Lam Sơn Square", "siteType": ["Rạp 2D"], "showTime": [["17:40 PM"]] }]]
+      },
+      {
+        "province": "Bình Định",
+        "availabelFormat": ["2D Lồng Tiếng Việt"],
+        "data": [[{ "siteName": "CGV Kim Cúc Plaza", "siteType": ["Rạp 2D"], "showTime": [["09:20 AM"]] }]]
+      },
+      {
+        "province": "Bình Dương",
+        "availabelFormat": ["2D Lồng Tiếng Việt"],
+        "data": [
+          [
+            {
+              "siteName": "CGV Aeon Canary",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["09:00 AM", "13:00 PM", "15:40 PM"]]
+            },
+            {
+              "siteName": "CGV Bình Dương Square",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["11:20 AM", "13:20 PM", "17:20 PM"]]
+            }
+          ]
+        ]
+      },
+      {
+        "province": "Đắk Lắk",
+        "availabelFormat": ["2D Phụ Đề Việt"],
+        "data": [[{ "siteName": "CGV Buôn Mê Thuột", "siteType": ["Rạp 2D"], "showTime": [["09:40 AM"]] }]]
+      },
+      {
+        "province": "Trà Vinh",
+        "availabelFormat": ["2D Lồng Tiếng Việt"],
+        "data": [
+          [{ "siteName": "CGV Vincom Trà Vinh", "siteType": ["Rạp 2D"], "showTime": [["09:50 AM", "18:30 PM"]] }]
+        ]
+      },
+      {
+        "province": "Yên Bái",
+        "availabelFormat": ["2D Phụ Đề Việt", "2D Lồng Tiếng Việt"],
+        "data": [
+          [{ "siteName": "CGV Vincom Yên Bái", "siteType": ["Rạp 2D"], "showTime": [["15:00 PM"]] }],
+          [{ "siteName": "CGV Vincom Yên Bái", "siteType": ["Rạp 2D"], "showTime": [["17:50 PM"]] }]
+        ]
+      },
+      {
+        "province": "Vĩnh Long",
+        "availabelFormat": ["2D Lồng Tiếng Việt"],
+        "data": [[{ "siteName": "CGV Vincom Vĩnh Long", "siteType": ["Rạp 2D"], "showTime": [["12:20 PM"]] }]]
+      },
+      {
+        "province": "Kiên Giang",
+        "availabelFormat": ["2D Lồng Tiếng Việt"],
+        "data": [
+          [{ "siteName": "CGV Vincom Rạch Giá", "siteType": ["Rạp 2D"], "showTime": [["09:45 AM", "18:30 PM"]] }]
+        ]
+      },
+      {
+        "province": "Hà Tĩnh",
+        "availabelFormat": ["2D Phụ Đề Việt", "2D Lồng Tiếng Việt"],
+        "data": [
+          [{ "siteName": "CGV Vincom Hà Tĩnh", "siteType": ["Rạp 2D"], "showTime": [["10:10 AM"]] }],
+          [{ "siteName": "CGV Vincom Hà Tĩnh", "siteType": ["Rạp 2D"], "showTime": [["18:40 PM"]] }]
+        ]
+      },
+      {
+        "province": "Đồng Tháp",
+        "availabelFormat": ["2D Lồng Tiếng Việt"],
+        "data": [[{ "siteName": "CGV Vincom Cao Lãnh", "siteType": ["Rạp 2D"], "showTime": [["16:30 PM"]] }]]
+      },
+      {
+        "province": "Kon Tum",
+        "availabelFormat": ["2D Lồng Tiếng Việt"],
+        "data": [[{ "siteName": "CGV Vincom Kon Tum", "siteType": ["Rạp 2D"], "showTime": [["10:00 AM"]] }]]
+      },
+      {
+        "province": "Lạng Sơn",
+        "availabelFormat": ["2D Phụ Đề Việt", "2D Lồng Tiếng Việt"],
+        "data": [
+          [{ "siteName": "CGV Vincom Lạng Sơn", "siteType": ["Rạp 2D"], "showTime": [["12:30 PM", "22:10 PM"]] }],
+          [{ "siteName": "CGV Vincom Lạng Sơn", "siteType": ["Rạp 2D"], "showTime": [["09:45 AM"]] }]
+        ]
+      },
+      {
+        "province": "Nghệ An",
+        "availabelFormat": ["2D Phụ Đề Việt", "2D Lồng Tiếng Việt"],
+        "data": [
+          [{ "siteName": "CGV Vinh Centre", "siteType": ["Rạp 2D"], "showTime": [["12:10 PM"]] }],
+          [{ "siteName": "CGV Vinh Centre", "siteType": ["Rạp 2D"], "showTime": [["15:10 PM", "19:00 PM"]] }]
+        ]
+      },
+      {
+        "province": "Quảng Ngãi",
+        "availabelFormat": ["2D Lồng Tiếng Việt"],
+        "data": [[{ "siteName": "CGV Vincom Quảng Ngãi", "siteType": ["Rạp 2D"], "showTime": [["17:40 PM"]] }]]
+      },
+      {
+        "province": "Sóc Trăng",
+        "availabelFormat": ["2D Lồng Tiếng Việt"],
+        "data": [[{ "siteName": "CGV Vincom Sóc Trăng", "siteType": ["Rạp 2D"], "showTime": [["15:10 PM"]] }]]
+      },
+      {
+        "province": "Sơn La",
+        "availabelFormat": ["2D Phụ Đề Việt"],
+        "data": [[{ "siteName": "CGV Vincom Sơn La", "siteType": ["Rạp 2D"], "showTime": [["14:20 PM"]] }]]
+      },
+      {
+        "province": "Tây Ninh",
+        "availabelFormat": ["2D Lồng Tiếng Việt"],
+        "data": [[{ "siteName": "CGV Vincom Tây Ninh", "siteType": ["Rạp 2D"], "showTime": [["16:00 PM"]] }]]
+      },
+      {
+        "province": "Thái Nguyên",
+        "availabelFormat": ["2D Phụ Đề Việt"],
+        "data": [
+          [
+            {
+              "siteName": "CGV Vincom Thái Nguyên",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["09:35 AM", "11:55 AM", "15:40 PM", "17:35 PM", "19:05 PM"]]
+            }
+          ]
+        ]
+      },
+      {
+        "province": "Tiền Giang",
+        "availabelFormat": ["2D Lồng Tiếng Việt"],
+        "data": [[{ "siteName": "CGV GO! Mỹ Tho", "siteType": ["Rạp 2D"], "showTime": [["13:50 PM", "16:40 PM"]] }]]
+      }
+    ]
+  },
+  {
+    "images": "https://www.cgv.vn/media/catalog/product/cache/1/image/c5f0a1eff4c394a251036189ccddaacd/t/h/thor-main-poster_1_.jpg",
+    "title": "THOR: TÌNH YÊU VÀ SẤM SÉT",
+    "director": "Taika Waititi",
+    "actor": "Chris Hemsworth, Tessa Thompson, Natalie Portman, Chris Pratt",
+    "genre": "Hành Động, Phiêu Lưu, Thần thoại",
+    "release": "08/07/2022",
+    "runtime": "118 phút",
+    "language": "Tiếng Anh - Phụ đề Tiếng Việt",
+    "rating": "C13 - Phim cấm khán giả dưới 13 tuổi",
+    "technology": ["3D", "4DX", "IMAX", "ScreenX"],
+    "description": "Vốn từng là một chiến binh hùng mạnh của Asgard, trải qua vô số trận chiến lớn nhỏ nhưng sau sự kiện trong Avengers: Endgame (2019) cùng vô số mất mát, Thần Sấm không còn muốn theo đuổi con đường siêu anh hùng. Từ đây, anh lên đường tìm ra ý nghĩa của cuộc sống và nhìn nhận lại bản thân mình.",
+    "trailerEmbed": "www.youtube.com/embed/6_dk-s57jck?rel=0&showinfo=0",
+    "youtubeID": "6_dk-s57jck",
+    "lichChieu": [
+      {
+        "province": "Hồ Chí Minh",
+        "availabelFormat": ["2D Phụ Đề Việt", "IMAX2D Phụ Đề Việt", "4DX3D Phụ Đề Việt", "SCREENX-2D Phụ Đề Việt"],
+        "data": [
+          [
+            {
+              "siteName": "CGV Hùng Vương Plaza",
+              "siteType": ["Rạp GOLD CLASS"],
+              "showTime": [["14:00 PM", "16:30 PM", "19:00 PM", "21:30 PM"]]
+            },
+            {
+              "siteName": "CGV Trường Sơn (CGV CT Plaza)",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["11:00 AM", "13:20 PM", "15:40 PM", "17:40 PM", "20:00 PM"]]
+            },
+            {
+              "siteName": "CGV Crescent Mall",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["13:20 PM", "19:50 PM", "21:45 PM"]]
+            },
+            {
+              "siteName": "CGV Pandora City",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["11:50 AM", "14:20 PM", "19:10 PM"]]
+            },
+            { "siteName": "CGV Aeon Tân Phú", "siteType": ["Rạp 2D"], "showTime": [["12:30 PM", "18:00 PM"]] },
+            {
+              "siteName": "CGV Thảo Điền Pearl",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["14:50 PM", "17:20 PM", "19:40 PM", "22:00 PM"]]
+            },
+            {
+              "siteName": "CGV Liberty Citypoint",
+              "siteType": ["Rạp SWEETBOX"],
+              "showTime": [["13:10 PM", "18:00 PM", "22:40 PM"]]
+            },
+            { "siteName": "CGV Vincom Thủ Đức", "siteType": ["Rạp 2D"], "showTime": [["21:30 PM"]] },
+            { "siteName": "CGV Vivo City", "siteType": ["Rạp Cine & Suite"], "showTime": [["18:45 PM"]] },
+            {
+              "siteName": "CGV Pearl Plaza",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["10:20 AM", "13:45 PM", "16:10 PM", "20:20 PM"]]
+            },
+            { "siteName": "CGV Aeon Bình Tân", "siteType": ["Rạp 2D"], "showTime": [["09:10 AM"]] },
+            {
+              "siteName": "CGV Vincom Đồng Khởi",
+              "siteType": ["Rạp 2D", "Rạp GOLD CLASS"],
+              "showTime": [
+                ["21:50 PM"],
+                ["10:00 AM", "11:10 AM", "13:40 PM", "16:10 PM", "18:00 PM", "18:40 PM", "20:30 PM", "23:00 PM"]
+              ]
+            },
+            {
+              "siteName": "CGV Parkson Đồng Khởi",
+              "siteType": ["Rạp 2D", "Rạp Lamour"],
+              "showTime": [["22:00 PM"], ["10:50 AM", "13:10 PM", "15:30 PM", "20:20 PM", "22:40 PM"]]
+            },
+            { "siteName": "CGV Sư Vạn Hạnh", "siteType": ["Rạp 2D"], "showTime": [["16:40 PM", "21:40 PM"]] },
+            { "siteName": "CGV Giga Mall Thủ Đức", "siteType": ["Rạp 2D"], "showTime": [["10:15 AM"]] },
+            {
+              "siteName": "CGV Lý Chính Thắng",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["10:20 AM", "12:40 PM", "15:00 PM", "17:30 PM", "19:50 PM", "22:10 PM"]]
+            }
+          ],
+          [
+            { "siteName": "CGV Vivo City", "siteType": ["Rạp IMAX"], "showTime": [["21:00 PM"]] },
+            { "siteName": "CGV Vincom Center Landmark 81", "siteType": ["Rạp IMAX"], "showTime": [["22:10 PM"]] }
+          ],
+          [{ "siteName": "CGV Hùng Vương Plaza", "siteType": ["Rạp 4DX"], "showTime": [["13:30 PM", "18:15 PM"]] }],
+          [{ "siteName": "CGV Hùng Vương Plaza", "siteType": ["Rạp SCREENX"], "showTime": [["10:40 AM", "15:15 PM"]] }]
+        ]
+      },
+      {
+        "province": "Hà Nội",
+        "availabelFormat": ["2D Phụ Đề Việt", "IMAX2D Phụ Đề Việt"],
+        "data": [
+          [
+            {
+              "siteName": "CGV Vincom Center Bà Triệu",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["11:15 AM", "12:10 PM", "13:50 PM", "16:05 PM", "18:25 PM", "21:40 PM", "22:40 PM"]]
+            },
+            {
+              "siteName": "CGV Mipec Tower",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["11:00 AM", "14:05 PM", "16:35 PM"]]
+            },
+            {
+              "siteName": "CGV Hồ Gươm Plaza",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["10:15 AM", "12:10 PM", "16:10 PM", "18:35 PM", "21:35 PM"]]
+            },
+            {
+              "siteName": "CGV Aeon Long Biên",
+              "siteType": ["Rạp 2D", "Rạp SCREENX"],
+              "showTime": [["11:40 AM"], ["17:50 PM"]]
+            },
+            {
+              "siteName": "CGV Vincom Nguyễn Chí Thanh",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["12:15 PM", "20:10 PM", "22:45 PM"]]
+            },
+            {
+              "siteName": "CGV Indochina Plaza Hà Nội",
+              "siteType": ["Rạp 2D", "Rạp GOLD CLASS"],
+              "showTime": [
+                ["15:10 PM", "22:20 PM"],
+                ["10:40 AM", "18:50 PM"]
+              ]
+            },
+            {
+              "siteName": "CGV Rice City",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["10:55 AM", "13:25 PM", "17:30 PM", "22:05 PM"]]
+            },
+            { "siteName": "CGV Tràng Tiền Plaza", "siteType": ["Rạp Lamour"], "showTime": [["18:25 PM"]] },
+            { "siteName": "CGV Trương Định Plaza", "siteType": ["Rạp 2D"], "showTime": [["11:05 AM"]] },
+            { "siteName": "CGV Vincom Royal City", "siteType": ["Rạp 2D"], "showTime": [["14:30 PM", "21:40 PM"]] },
+            {
+              "siteName": "CGV Vincom Times City",
+              "siteType": ["Rạp 2D", "Rạp PREMIUM"],
+              "showTime": [["10:30 AM"], ["11:45 AM", "14:15 PM", "16:45 PM", "19:15 PM", "21:45 PM"]]
+            },
+            {
+              "siteName": "CGV Mac Plaza (Machinco)",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["10:20 AM", "11:10 AM", "15:10 PM", "17:35 PM", "21:55 PM"]]
+            },
+            {
+              "siteName": "CGV Vincom Bắc Từ Liêm",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["10:05 AM", "12:25 PM", "14:35 PM", "19:10 PM", "21:35 PM"]]
+            },
+            {
+              "siteName": "CGV Xuân Diệu",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["10:50 AM", "13:15 PM", "17:50 PM", "20:15 PM", "22:40 PM"]]
+            },
+            {
+              "siteName": "CGV Vincom Sky Lake Phạm Hùng",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["15:35 PM", "20:30 PM"]]
+            },
+            {
+              "siteName": "CGV Vincom Trần Duy Hưng",
+              "siteType": ["Rạp 2D", "Rạp Cine & Forest"],
+              "showTime": [["21:35 PM"], ["14:00 PM", "16:30 PM"]]
+            },
+            {
+              "siteName": "CGV Aeon Hà Đông",
+              "siteType": ["Rạp 2D", "Rạp Lamour"],
+              "showTime": [["14:45 PM", "21:15 PM"], ["12:40 PM"]]
+            },
+            { "siteName": "CGV Vincom Ocean Park", "siteType": ["Rạp 2D"], "showTime": [["12:30 PM", "21:30 PM"]] }
+          ],
+          [
+            {
+              "siteName": "CGV Vincom Metropolis Liễu Giai",
+              "siteType": ["Rạp IMAX"],
+              "showTime": [["16:25 PM", "19:00 PM", "21:30 PM"]]
+            }
+          ]
+        ]
+      },
+      {
+        "province": "Đà Nẵng",
+        "availabelFormat": ["2D Phụ Đề Việt"],
+        "data": [
+          [
+            { "siteName": "CGV Vĩnh Trung Plaza", "siteType": ["Rạp 2D"], "showTime": [["12:20 PM"]] },
+            { "siteName": "CGV Vincom Đà Nẵng", "siteType": ["Rạp 2D"], "showTime": [["15:00 PM"]] }
+          ]
+        ]
+      },
+      {
+        "province": "Đồng Nai",
+        "availabelFormat": ["2D Phụ Đề Việt"],
+        "data": [
+          [
+            { "siteName": "CGV Coopmart Biên Hòa", "siteType": ["Rạp 2D"], "showTime": [["12:40 PM", "18:30 PM"]] },
+            { "siteName": "CGV Big C Đồng Nai", "siteType": ["Rạp 2D"], "showTime": [["21:40 PM"]] }
+          ]
+        ]
+      },
+      {
+        "province": "Hải Phòng",
+        "availabelFormat": ["2D Phụ Đề Việt"],
+        "data": [
+          [
+            {
+              "siteName": "CGV Aeon Mall Hải Phòng",
+              "siteType": ["Rạp Cine & Suite"],
+              "showTime": [["11:00 AM", "18:30 PM"]]
+            },
+            { "siteName": "CGV Vincom Hải Phòng", "siteType": ["Rạp 2D"], "showTime": [["12:40 PM", "17:10 PM"]] }
+          ]
+        ]
+      },
+      {
+        "province": "Quảng Ninh",
+        "availabelFormat": ["2D Phụ Đề Việt"],
+        "data": [[{ "siteName": "CGV Vincom Hạ Long", "siteType": ["Rạp 2D"], "showTime": [["12:10 PM"]] }]]
+      },
+      {
+        "province": "Bà Rịa-Vũng Tàu",
+        "availabelFormat": ["2D Phụ Đề Việt"],
+        "data": [[{ "siteName": "CGV Lam Sơn Square", "siteType": ["Rạp 2D"], "showTime": [["12:40 PM"]] }]]
+      },
+      {
+        "province": "Bình Dương",
+        "availabelFormat": ["2D Phụ Đề Việt"],
+        "data": [
+          [
+            { "siteName": "CGV Bình Dương Square", "siteType": ["Rạp 2D"], "showTime": [["14:20 PM"]] },
+            { "siteName": "CGV Aeon Canary", "siteType": ["Rạp 2D"], "showTime": [["17:00 PM"]] }
+          ]
+        ]
+      },
+      {
+        "province": "Đắk Lắk",
+        "availabelFormat": ["2D Phụ Đề Việt"],
+        "data": [[{ "siteName": "CGV Buôn Mê Thuột", "siteType": ["Rạp 2D"], "showTime": [["12:10 PM"]] }]]
+      },
+      {
+        "province": "Lạng Sơn",
+        "availabelFormat": ["2D Phụ Đề Việt"],
+        "data": [[{ "siteName": "CGV Vincom Lạng Sơn", "siteType": ["Rạp 2D"], "showTime": [["17:30 PM"]] }]]
+      },
+      {
+        "province": "Nghệ An",
+        "availabelFormat": ["2D Phụ Đề Việt"],
+        "data": [[{ "siteName": "CGV Vinh Centre", "siteType": ["Rạp 2D"], "showTime": [["14:10 PM"]] }]]
+      }
+    ]
+  },
+  {
+    "images": "https://www.cgv.vn/media/catalog/product/cache/1/image/c5f0a1eff4c394a251036189ccddaacd/d/t/dtl_m-poster_w700xh1000_1_.jpg",
+    "title": "QUYẾT TÂM CHIA TAY",
+    "director": "Park Chan Wook",
+    "actor": "Tang Wei, Park Hae Il",
+    "genre": "Hồi hộp, Tình cảm",
+    "release": "15/07/2022",
+    "runtime": "138 phút",
+    "language": "Tiếng Hàn - Phụ đề tiếng Việt, tiếng Anh",
+    "rating": "C16 - Phim cấm khán giả dưới 16 tuổi",
+    "technology": [],
+    "description": "Một thanh tra cảnh sát rơi vào lưới tình với goá phụ trẻ - nghi phạm giết người trong vụ án mà anh ta đang điều tra.",
+    "trailerEmbed": "www.youtube.com/embed/kdJvKwT2NAU?rel=0&showinfo=0",
+    "youtubeID": "kdJvKwT2NAU",
+    "lichChieu": [
+      {
+        "province": "Hồ Chí Minh",
+        "availabelFormat": ["2D Phụ Đề Việt"],
+        "data": [
+          [
+            {
+              "siteName": "CGV Liberty Citypoint",
+              "siteType": ["Rạp GOLD CLASS"],
+              "showTime": [["10:40 AM", "13:20 PM", "16:00 PM", "18:40 PM", "21:20 PM"]]
+            },
+            {
+              "siteName": "CGV Lý Chính Thắng",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["10:40 AM", "13:20 PM", "16:00 PM", "18:40 PM", "21:20 PM"]]
+            },
+            { "siteName": "CGV Hùng Vương Plaza", "siteType": ["Rạp GOLD CLASS"], "showTime": [["11:10 AM"]] },
+            {
+              "siteName": "CGV Parkson Đồng Khởi",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["11:10 AM", "11:50 AM", "14:25 PM", "17:00 PM", "19:40 PM", "21:25 PM", "22:20 PM"]]
+            },
+            { "siteName": "CGV Vivo City", "siteType": ["Rạp 2D"], "showTime": [["11:20 AM"]] },
+            {
+              "siteName": "CGV Thảo Điền Pearl",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["12:00 PM", "15:35 PM", "20:45 PM"]]
+            },
+            {
+              "siteName": "CGV Trường Sơn (CGV CT Plaza)",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["12:10 PM", "21:15 PM"]]
+            },
+            {
+              "siteName": "CGV Vincom Đồng Khởi",
+              "siteType": ["Rạp GOLD CLASS", "Rạp PREMIUM"],
+              "showTime": [["15:10 PM"], ["22:20 PM"]]
+            },
+            { "siteName": "CGV Pearl Plaza", "siteType": ["Rạp 2D"], "showTime": [["16:35 PM", "22:05 PM"]] },
+            { "siteName": "CGV Crescent Mall", "siteType": ["Rạp 2D"], "showTime": [["17:40 PM"]] },
+            { "siteName": "CGV Aeon Tân Phú", "siteType": ["Rạp 2D"], "showTime": [["20:50 PM"]] }
+          ]
+        ]
+      },
+      {
+        "province": "Hà Nội",
+        "availabelFormat": ["2D Phụ Đề Việt"],
+        "data": [
+          [
+            { "siteName": "CGV Xuân Diệu", "siteType": ["Rạp 2D"], "showTime": [["11:15 AM", "15:50 PM", "20:25 PM"]] },
+            {
+              "siteName": "CGV Indochina Plaza Hà Nội",
+              "siteType": ["Rạp GOLD CLASS", "Rạp 2D"],
+              "showTime": [["13:10 PM", "16:00 PM", "21:20 PM"], ["22:10 PM"]]
+            },
+            {
+              "siteName": "CGV Vincom Center Bà Triệu",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["13:15 PM", "16:50 PM", "21:00 PM"]]
+            },
+            { "siteName": "CGV Vincom Times City", "siteType": ["Rạp 2D"], "showTime": [["13:40 PM"]] },
+            {
+              "siteName": "CGV Vincom Metropolis Liễu Giai",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["13:50 PM", "16:30 PM", "19:15 PM"]]
+            },
+            { "siteName": "CGV Vincom Nguyễn Chí Thanh", "siteType": ["Rạp 2D"], "showTime": [["14:50 PM"]] },
+            { "siteName": "CGV Mipec Tower", "siteType": ["Rạp 2D"], "showTime": [["15:10 PM"]] },
+            { "siteName": "CGV Sun Grand Lương Yên", "siteType": ["Rạp 2D"], "showTime": [["16:25 PM"]] },
+            { "siteName": "CGV Tràng Tiền Plaza", "siteType": ["Rạp Lamour"], "showTime": [["21:00 PM"]] },
+            { "siteName": "CGV Hà Nội Centerpoint", "siteType": ["Rạp 2D"], "showTime": [["21:10 PM"]] },
+            { "siteName": "CGV Hồ Gươm Plaza", "siteType": ["Rạp 2D"], "showTime": [["22:00 PM"]] },
+            { "siteName": "CGV Vincom Trần Duy Hưng", "siteType": ["Rạp 2D"], "showTime": [["22:15 PM"]] }
+          ]
+        ]
+      },
+      {
+        "province": "Hải Phòng",
+        "availabelFormat": ["2D Phụ Đề Việt"],
+        "data": [[{ "siteName": "CGV Vincom Hải Phòng", "siteType": ["Rạp GOLD CLASS"], "showTime": [["18:10 PM"]] }]]
+      }
+    ]
+  },
+  {
+    "images": "https://www.cgv.vn/media/catalog/product/cache/1/image/c5f0a1eff4c394a251036189ccddaacd/l/i/linh_h_n_v_n_-_payoff_poster_k_ch_th_c_facebook_-_kc_22.07.2022_1_.jpg",
+    "title": "LINH HỒN VŨ NỮ",
+    "director": "Awi Suryadi",
+    "actor": "Aghniny Haque, Achmad Megantara, Aulia Sarah, Adinda Thomas, Tissa Biani, Fajar Nugra, Calvin Jeremy, v.v",
+    "genre": "Kinh Dị",
+    "release": "22/07/2022",
+    "runtime": "123 phút",
+    "language": "Tiếng Indonesia với phụ đề tiếng Việt và tiếng Anh",
+    "rating": "C16 - Phim cấm khán giả dưới 16 tuổi",
+    "technology": [],
+    "description": "Sáu học sinh đi vào một ngôi làng hẻo lánh để thực hiện chương trình công ích. Và họ không biết được rằng đây là vùng đất của những linh hồn bị mắc kẹt dưới sự cai trị của Badarawuhi – một linh hồn vũ nữ.",
+    "trailerEmbed": "www.youtube.com/embed/-Q1kXe1X0js?rel=0&showinfo=0",
+    "youtubeID": "-Q1kXe1X0js",
+    "lichChieu": [
+      {
+        "province": "Hồ Chí Minh",
+        "availabelFormat": ["2D Phụ Đề Việt"],
+        "data": [[{ "siteName": "CGV Pearl Plaza", "siteType": ["Rạp 2D"], "showTime": [["12:45 PM"]] }]]
+      },
+      {
+        "province": "Hà Nội",
+        "availabelFormat": ["2D Phụ Đề Việt"],
+        "data": [
+          [
+            { "siteName": "CGV Vincom Times City", "siteType": ["Rạp 2D"], "showTime": [["11:15 AM"]] },
+            {
+              "siteName": "CGV Indochina Plaza Hà Nội",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["12:40 PM", "19:50 PM"]]
+            },
+            { "siteName": "CGV Vincom Center Bà Triệu", "siteType": ["Rạp 2D"], "showTime": [["18:50 PM"]] }
+          ]
+        ]
+      },
+      {
+        "province": "Đồng Nai",
+        "availabelFormat": ["2D Phụ Đề Việt"],
+        "data": [[{ "siteName": "CGV Coopmart Biên Hòa", "siteType": ["Rạp 2D"], "showTime": [["21:40 PM"]] }]]
+      },
+      {
+        "province": "Bình Dương",
+        "availabelFormat": ["2D Phụ Đề Việt"],
+        "data": [[{ "siteName": "CGV Aeon Canary", "siteType": ["Rạp 2D"], "showTime": [["16:00 PM"]] }]]
+      },
+      {
+        "province": "Nghệ An",
+        "availabelFormat": ["2D Phụ Đề Việt"],
+        "data": [[{ "siteName": "CGV Vinh Centre", "siteType": ["Rạp 2D"], "showTime": [["17:30 PM"]] }]]
+      }
+    ]
+  },
+  {
+    "images": "https://www.cgv.vn/media/catalog/product/cache/1/image/c5f0a1eff4c394a251036189ccddaacd/l/a/lamay_teaser_1_.jpg",
+    "title": "LÀ MÂY TRÊN BẦU TRỜI AI ĐÓ",
+    "director": "Thanadit Pradit",
+    "actor": "Ngọc Lan Vy, August Vachiravit, Hồng Vân, Trịnh Tú Trung, Hải Triều, Lưu Đông, Lâm Bảo Châu, Quỳnh Lý, Nhâm Phương Nam, Puvadol Vechwongsa, Pakorn Lum và Push Puttichai.",
+    "genre": "Hài, Tình cảm",
+    "release": "22/07/2022",
+    "runtime": "89 phút",
+    "language": "Tiếng Việt với phụ đề tiếng Anh",
+    "rating": "C13 - Phim cấm khán giả dưới 13 tuổi",
+    "technology": [],
+    "description": "Nàng tiểu thư đỏng đảnh Mây sang Thái Lan để theo đuổi một “nam thần” nổi tiếng, tình cờ lại va phải anh chàng “oan gia” và cùng nhau trải qua những tình huống dở khóc dở cười",
+    "trailerEmbed": "www.youtube.com/embed/U4OwkJ9NLWw?rel=0&showinfo=0",
+    "youtubeID": "U4OwkJ9NLWw",
+    "lichChieu": [
+      {
+        "province": "Hà Nội",
+        "availabelFormat": ["2D Phụ Đề Việt"],
+        "data": [
+          [{ "siteName": "CGV Vincom Nguyễn Chí Thanh", "siteType": ["Rạp GOLD CLASS"], "showTime": [["17:15 PM"]] }]
+        ]
+      }
+    ]
+  },
+  {
+    "images": "https://www.cgv.vn/media/catalog/product/cache/1/image/c5f0a1eff4c394a251036189ccddaacd/c/h/cherry_magic-_vietnamese_poster-1.jpg",
+    "title": "CHERRY MAGIC: 30 TUỔI VẪN CÒN “ZIN” SẼ BIẾN THÀNH PHÙ THỦY",
+    "director": "Hiroki Kazama",
+    "actor": "Eiji Akaso, Keita Machida , Kodai Asaka, Yutaro, Takuya Kusakawa (Super Tokkyu), Rei Sato, Suzunosuke",
+    "genre": "Tình cảm",
+    "release": "15/07/2022",
+    "runtime": "104 phút",
+    "language": "Tiếng Nhật - Phụ đề Tiếng Việt, tiếng Anh",
+    "rating": "C16 - Phim cấm khán giả dưới 16 tuổi",
+    "technology": [],
+    "description": "Bản phim điện ảnh lãng mạn, ấm áp của hiện tượng gây sốt châu Á “CHERRY MAGIC: 30 TUỔI VẪN CÒN “ZIN” SẼ BIẾN THÀNH PHÙ THỦY”.\nAdachi là một nhân viên văn phòng, bước sang tuổi 30 và vẫn còn \"zin\". Vào sinh nhật thứ 30 của mình, anh chàng được ban tặng phép thuật kỳ lạ. Adachi có thể đọc được suy nghĩ của những người anh ta chạm vào.\nKurosawa là người yêu của Adachi tại nơi làm việc, nổi tiếng và thành đạt. Họ yêu nhau bí mật tại chốn công sở. Một ngày nọ, Adachi nhận được một cơ hội việc làm mới. Adachi sẽ được làm việc mình thích nhưng địa điểm mới lại ở Nagasaki, cách Kurosawa tận 1.200 km. Trải qua những khó khăn và thử thách khi yêu xa khiến họ phải suy nghĩ lại về mối quan hệ và tương lai của mình. Mối quan hệ của họ sẽ ra sao?",
+    "trailerEmbed": "www.youtube.com/embed/obTrN5__BAM?rel=0&showinfo=0",
+    "youtubeID": "obTrN5__BAM",
+    "lichChieu": [
+      {
+        "province": "Hồ Chí Minh",
+        "availabelFormat": ["2D Eng&Viet Sub"],
+        "data": [
+          [
+            { "siteName": "CGV Lý Chính Thắng", "siteType": ["Rạp 2D"], "showTime": [["09:30 AM", "17:40 PM"]] },
+            { "siteName": "CGV Aeon Tân Phú", "siteType": ["Rạp 2D"], "showTime": [["10:30 AM"]] },
+            { "siteName": "CGV Parkson Đồng Khởi", "siteType": ["Rạp 2D"], "showTime": [["10:40 AM", "14:50 PM"]] },
+            { "siteName": "CGV Pearl Plaza", "siteType": ["Rạp 2D"], "showTime": [["11:10 AM"]] },
+            { "siteName": "CGV Hùng Vương Plaza", "siteType": ["Rạp 2D"], "showTime": [["14:00 PM"]] },
+            { "siteName": "CGV Pandora City", "siteType": ["Rạp 2D"], "showTime": [["14:10 PM"]] },
+            { "siteName": "CGV Thảo Điền Pearl", "siteType": ["Rạp 2D"], "showTime": [["14:20 PM"]] }
+          ]
+        ]
+      },
+      {
+        "province": "Hà Nội",
+        "availabelFormat": ["2D Eng&Viet Sub"],
+        "data": [
+          [
+            {
+              "siteName": "CGV Tràng Tiền Plaza",
+              "siteType": ["Rạp Lamour", "Rạp 2D"],
+              "showTime": [["11:25 AM"], ["19:25 PM", "21:30 PM"]]
+            },
+            { "siteName": "CGV Xuân Diệu", "siteType": ["Rạp 2D"], "showTime": [["15:40 PM"]] },
+            { "siteName": "CGV Vincom Times City", "siteType": ["Rạp 2D"], "showTime": [["17:15 PM", "18:40 PM"]] },
+            { "siteName": "CGV Indochina Plaza Hà Nội", "siteType": ["Rạp 2D"], "showTime": [["17:40 PM"]] }
+          ]
+        ]
+      },
+      {
+        "province": "Bình Dương",
+        "availabelFormat": ["2D Eng&Viet Sub"],
+        "data": [[{ "siteName": "CGV Bình Dương Square", "siteType": ["Rạp 2D"], "showTime": [["15:10 PM"]] }]]
+      }
+    ]
+  },
+  {
+    "images": "https://www.cgv.vn/media/catalog/product/cache/1/image/c5f0a1eff4c394a251036189ccddaacd/p/o/pororo_dinosaur_island_adventure-_vietnamese_poster_1_.jpg",
+    "title": "PORORO: CUỘC PHIÊU LƯU ĐẾN ĐẢO KHỦNG LONG",
+    "director": "Kim Hyunho, Yoon Jewan",
+    "actor": "",
+    "genre": "Hoạt Hình",
+    "release": "15/07/2022",
+    "runtime": "79 phút",
+    "language": "Tiếng Hàn - Phụ đề tiếng Việt, lồng tiếng",
+    "rating": "P - Phim dành cho mọi đối tượng",
+    "technology": [],
+    "description": "Pororo và những người bạn tìm thấy chú khủng long nhỏ Alo đang ngủ say trong chiếc phi thuyền hình quả trứng. Alo không nhớ gì ngoài tên của mình. Khi Pororo và bạn bè giúp Alo sửa phi thuyền thì phi thuyền vụt sáng và biến mất cùng Alo và người bạn của Pororo là Crong. Pororo đuổi theo chiếc phi thuyền đến Đảo Khủng Long và chạm trán với Mr.Y, kẻ chuyên bắt cóc khủng long để bán cho người ngoài hành tinh. Để giải cứu bạn của mình, Pororo phải vượt qua nỗi sợ khủng long để chiến đấu với người ngoài hành tinh và đội quân người máy của Mr.Y.",
+    "trailerEmbed": "",
+    "youtubeID": "",
+    "lichChieu": [
+      {
+        "province": "Hồ Chí Minh",
+        "availabelFormat": ["2D Lồng Tiếng Việt"],
+        "data": [
+          [
+            { "siteName": "CGV Crescent Mall", "siteType": ["Rạp 2D"], "showTime": [["10:00 AM"]] },
+            { "siteName": "CGV Aeon Tân Phú", "siteType": ["Rạp 2D"], "showTime": [["12:50 PM"]] }
+          ]
+        ]
+      },
+      {
+        "province": "Hà Nội",
+        "availabelFormat": ["2D Lồng Tiếng Việt"],
+        "data": [
+          [
+            { "siteName": "CGV Aeon Long Biên", "siteType": ["Rạp 2D"], "showTime": [["09:05 AM"]] },
+            { "siteName": "CGV Indochina Plaza Hà Nội", "siteType": ["Rạp 2D"], "showTime": [["09:55 AM"]] },
+            { "siteName": "CGV Vincom Bắc Từ Liêm", "siteType": ["Rạp 2D"], "showTime": [["10:00 AM"]] },
+            { "siteName": "CGV Vincom Times City", "siteType": ["Rạp 2D"], "showTime": [["10:10 AM"]] },
+            { "siteName": "CGV Vincom Metropolis Liễu Giai", "siteType": ["Rạp 2D"], "showTime": [["12:10 PM"]] },
+            { "siteName": "CGV Tràng Tiền Plaza", "siteType": ["Rạp 2D"], "showTime": [["13:20 PM"]] }
+          ]
+        ]
+      },
+      {
+        "province": "Bình Dương",
+        "availabelFormat": ["2D Lồng Tiếng Việt"],
+        "data": [[{ "siteName": "CGV Bình Dương Square", "siteType": ["Rạp 2D"], "showTime": [["08:50 AM"]] }]]
+      }
+    ]
+  },
+  {
+    "images": "https://www.cgv.vn/media/catalog/product/cache/1/image/c5f0a1eff4c394a251036189ccddaacd/t/o/top_gun_maverick_-_poster_28.03_1_.jpg",
+    "title": "PHI CÔNG SIÊU ĐẲNG MAVERICK",
+    "director": "Joseph Kosinski",
+    "actor": "Tom Cruise, Justin Marks, Peter Craig, Eric Warren Singer",
+    "genre": "Hành Động, Phiêu Lưu",
+    "release": "27/05/2022",
+    "runtime": "130 phút",
+    "language": "Tiếng Anh với phụ đề tiếng Việt",
+    "rating": "C13 - Phim cấm khán giả dưới 13 tuổi",
+    "technology": ["4DX", "IMAX", "ScreenX"],
+    "description": "Sau hơn ba mươi năm phục vụ,  Pete “Maverick” Mitchell từng nổi danh là một phi công thử nghiệm quả cảm hàng đầu của Hải quân, né tránh cơ hội thăng chức, điều khiến anh cảm thấy bị bó buộc, để trở về làm chính mình.",
+    "trailerEmbed": "www.youtube.com/embed/ZR99nOkEolM?rel=0&showinfo=0",
+    "youtubeID": "ZR99nOkEolM",
+    "lichChieu": [
+      {
+        "province": "Hồ Chí Minh",
+        "availabelFormat": ["2D Phụ Đề Việt", "2D Phụ Đề Hàn & Việt", "4DX2D Phụ Đề Hàn & Việt"],
+        "data": [
+          [
+            {
+              "siteName": "CGV Trường Sơn (CGV CT Plaza)",
+              "siteType": ["Rạp 2D"],
+              "showTime": [["10:40 AM", "18:40 PM"]]
+            }
+          ],
+          [
+            { "siteName": "CGV Crescent Mall", "siteType": ["Rạp 2D"], "showTime": [["22:20 PM"]] },
+            {
+              "siteName": "CGV Vincom Center Landmark 81",
+              "siteType": ["Rạp GOLD CLASS"],
+              "showTime": [["19:00 PM", "21:50 PM"]]
+            }
+          ],
+          [{ "siteName": "CGV Vivo City", "siteType": ["Rạp 4DX"], "showTime": [["16:40 PM", "21:30 PM"]] }]
+        ]
+      },
+      {
+        "province": "Hà Nội",
+        "availabelFormat": ["2D Phụ Đề Hàn & Việt", "4DX2D Phụ Đề Hàn & Việt"],
+        "data": [
+          [
+            {
+              "siteName": "CGV Vincom Trần Duy Hưng",
+              "siteType": ["Rạp Cine & Forest"],
+              "showTime": [["11:20 AM", "19:00 PM", "21:40 PM"]]
+            }
+          ],
+          [{ "siteName": "CGV Vincom Center Bà Triệu", "siteType": ["Rạp 4DX"], "showTime": [["11:45 AM"]] }]
+        ]
+      },
+      {
+        "province": "Đà Nẵng",
+        "availabelFormat": ["2D Phụ Đề Hàn & Việt"],
+        "data": [
+          [
+            { "siteName": "CGV Vincom Đà Nẵng", "siteType": ["Rạp 2D"], "showTime": [["09:50 AM"]] },
+            { "siteName": "CGV Vĩnh Trung Plaza", "siteType": ["Rạp 2D"], "showTime": [["20:30 PM"]] }
+          ]
+        ]
+      }
+    ]
+  }
+]
